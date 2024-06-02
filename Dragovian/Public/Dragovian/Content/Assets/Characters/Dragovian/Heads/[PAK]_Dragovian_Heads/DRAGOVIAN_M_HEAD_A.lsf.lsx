@@ -4386,9 +4386,9 @@
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
-					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
-					<attribute id="BoundsMax" type="fvec3" value="0.12594284 2.118715 0.118370034" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.12594284 1.7838151 -0.22501613" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1289667 1.515987 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1291334 1.164103 -0.1775725" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -4407,13 +4407,20 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
-							<attribute id="PairElement2" type="FixedString" value="447d7268-82c3-f6dc-e246-f2adcc153515" />
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="3079f83c-476a-1a23-db66-50fc50524619" />
+							<attribute id="Object" type="FixedString" value="b8205373-9913-4daf-2e6e-d58979a7e59d" />
 						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="75f44acd-766b-6185-2124-7f7b6f4579a7" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
