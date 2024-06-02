@@ -4420,7 +4420,6 @@
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
 						</node>
-						<node id
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
