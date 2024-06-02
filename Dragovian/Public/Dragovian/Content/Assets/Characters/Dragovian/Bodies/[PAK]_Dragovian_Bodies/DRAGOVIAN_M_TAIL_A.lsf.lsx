@@ -13,9 +13,9 @@
 			<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 			<attribute id="HairPresetResourceId" type="FixedString" value="" />
 			<attribute id="HairType" type="uint8" value="0" />
-			<attribute id="ID" type="FixedString" value="c18459c5-ab60-43a5-a5d6-01be5dbb04b5" />
+			<attribute id="ID" type="FixedString" value="2faa16f5-50a3-4df4-ad5a-1c1645d9c2f8" />
 			<attribute id="MaterialType" type="uint8" value="0" />
-			<attribute id="Name" type="LSString" value="Jotnar_M_Tail_A" />
+			<attribute id="Name" type="LSString" value="Dragovian_M_Tail_A" />
 			<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 			<attribute id="RemapperSlotId" type="FixedString" value="" />
 			<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -42,6 +42,11 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="a286286b-028d-cfbd-c2b4-4cb037a07599" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a286286b-028d-cfbd-c2b4-4cb037a07599" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.1" />
 						</node>
                </children>
              </node>
