@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">Spelllist Cantrips
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="5bb41c11-5bc0-4356-8e4c-dbf715e2e962"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
