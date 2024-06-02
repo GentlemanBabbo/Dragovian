@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
 	<region id="VirtualTextureBank">
@@ -38,7 +38,6 @@
 					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
-						<children>
 						<node id="Bones">
 							<attribute id="MapKey" type="FixedString" value="Scapula_R" />
 							<children>
@@ -4393,7 +4392,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="a60077d9-24ec-4557-a8c5-1bf8dfee66a3" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Dragovian_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
