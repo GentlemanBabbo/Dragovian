@@ -40,12 +40,12 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a286286b-028d-cfbd-c2b4-4cb037a07599" />
+							<attribute id="MaterialID" type="FixedString" value="279a874e-f57d-4160-87db-2668ad4550a0" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a286286b-028d-cfbd-c2b4-4cb037a07599" />
+							<attribute id="MaterialID" type="FixedString" value="279a874e-f57d-4160-87db-2668ad4550a0" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.1" />
 						</node>
                </children>
