@@ -4388,7 +4388,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
 					<attribute id="ID" type="FixedString" value="279a874e-f57d-4160-87db-2668ad4550a0" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="COLORABLE_DRAGOVIAN_MAT" />
+					<attribute id="Name" type="LSString" value="COLORABLE_DRAGOVIANHEAD_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Head_DGB.lsf" />
 					<children>
 						<node id="ScalarParameters">
