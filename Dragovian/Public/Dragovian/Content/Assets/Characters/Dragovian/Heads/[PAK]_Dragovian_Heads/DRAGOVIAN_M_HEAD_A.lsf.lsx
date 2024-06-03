@@ -5017,7 +5017,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragovianHead_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/DragovianHead_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/DragovianHead_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianHead_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5031,7 +5031,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragovianHead_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/DragovianHead_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/DragovianHead_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianHead_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5045,7 +5045,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragovianHead_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/DragovianHead_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/DragovianHead_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianHead_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5059,7 +5059,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragovianHead_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/DragovianHead_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/DragovianHead_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianHead_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5073,7 +5073,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragovianHead_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/DragovianHead_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/DragovianHead_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianHead_MSK" />
 					<attribute id="Type" type="int32" value="1" />
