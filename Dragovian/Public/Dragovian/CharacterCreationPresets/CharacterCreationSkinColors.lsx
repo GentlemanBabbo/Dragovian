@@ -10,7 +10,7 @@
                     <attribute id="Name" type="FixedString" value="Black 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF717171"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="19e77bb5-2a6f-4672-b5de-208f003282b5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h500b7300g93a5g4468gb930gf0b857e038f8" version="4"/>
@@ -18,7 +18,7 @@
                     <attribute id="Name" type="FixedString" value="Black 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF6D6D6D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="25485445-0d6b-4ec1-b9ef-46b5a781768a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="heefaf526gc4bag4dafga0e1gd45469665235" version="3"/>
@@ -26,7 +26,7 @@
                     <attribute id="Name" type="FixedString" value="Black 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF696969"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="11554d9e-0004-4fdb-b995-1c7dfdf8573a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h19a44911g704ag4f67gaa95g160da75101a5" version="4"/>
@@ -34,7 +34,7 @@
                     <attribute id="Name" type="FixedString" value="Black 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF636363"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="337cfbf0-6eb6-4996-9daa-481dd8486a1a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb859afc4gca68g42a0g83dfgb0d935ace3fc" version="4"/>
@@ -42,7 +42,7 @@
                     <attribute id="Name" type="FixedString" value="Black 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5F5F5F"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1e9d8079-e72e-43ff-9343-7aff3914a2e6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1a95a420gee0cg4aeeg9d8bg6ac08dc6dc36" version="2"/>
@@ -50,7 +50,7 @@
                     <attribute id="Name" type="FixedString" value="Black 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A5A5A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bc24ca82-e1c1-450c-8445-26952fa949e3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h18e65db7g625bg4bbegbb07g4f6a11614428" version="2"/>
@@ -58,7 +58,7 @@
                     <attribute id="Name" type="FixedString" value="Black 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF555555"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2164e44b-5e43-4403-91c1-2d137bb8faed"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h280066bfg0260g4154g8f0cg856d0573b99b" version="2"/>
@@ -66,7 +66,7 @@
                     <attribute id="Name" type="FixedString" value="Black 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF4F4F4F"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e6d97606-e7e2-443e-8022-87c6757e7859"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h8e0dc442g17efg4d8eg95cegc9b3c7e26517" version="2"/>
@@ -74,7 +74,7 @@
                     <attribute id="Name" type="FixedString" value="Black 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF474747"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="19995b0c-511f-48f8-91cb-d8c6778ca0cd"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hea9a86f4gec31g4dfeg85ebgd82886750ba5" version="2"/>
@@ -82,7 +82,7 @@
                     <attribute id="Name" type="FixedString" value="Black 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF383838"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bb324bdb-59db-4fa8-b212-8e11fdcca3d5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h79448ef5gcf44g49b0ga146g3baf7fb408fe" version="2"/>
@@ -90,7 +90,7 @@
                     <attribute id="Name" type="FixedString" value="Black 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF2B2B2B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="04c0c0ad-d2bd-4069-86f9-fcaa96eabfb4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hef69631ag807ag4405g8a50g1582a5dcd852" version="2"/>
@@ -98,7 +98,7 @@
                     <attribute id="Name" type="FixedString" value="Black 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF1D1D1D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="38780f29-dc4a-4a46-8bd2-a2b0e1f3f676"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h738ea35cg47d0g4fd5g976dg955205f70a5b" version="1"/>
@@ -106,7 +106,7 @@
                     <attribute id="Name" type="FixedString" value="Black 13"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF1A1A1A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="141961b1-83ce-4dc5-b3d4-bd658d491f28"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h57ab041fg1acdg4f5cg9b39gf0a97ca07809" version="1"/>
@@ -114,7 +114,7 @@
                     <attribute id="Name" type="FixedString" value="Black 14"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF151515"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e255e865-adf2-436f-9f30-cc91d8e748da"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h02e16b50gd6f3g48f2gb702gaa5b984b7afa" version="1"/>
@@ -122,7 +122,7 @@
                     <attribute id="Name" type="FixedString" value="Black 15"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF000000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7c702049-718f-46ae-8946-b342fb436c81"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hcaf94b6dgbf41g4a90g8679g5b9366ad10bd" version="4"/>
@@ -130,7 +130,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF72ACC8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="65ce1ae9-4d59-48f0-bc7c-98536efbc3c7"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h9f1b8365g3eddg447dga769gf0ab6d72699d" version="3"/>
@@ -138,7 +138,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF70A5C1"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fe53143c-e111-403a-9e7e-bcdab310ae07"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3c8ed07cgc6d8g4b45gb8d2g8e0b73b90dee" version="3"/>
@@ -146,7 +146,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF6D9FB9"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f9b065e2-ad73-4332-b2aa-eb2d0ede90ad"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1682a5b0g870eg4240gbeb1g4ece519a9228" version="3"/>
@@ -154,7 +154,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF3895B9"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="df2662f4-127d-4850-8528-4944f4fd8306"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha1fc6246g728eg46abgb2f9g51d31ae0ea97" version="3"/>
@@ -162,7 +162,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF3590B3"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b7c8523d-147b-4976-a3b1-36442f802dd4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hcd46fc4eg7577g46e6g9cb3g9c76bdfdbee2" version="3"/>
@@ -170,7 +170,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF328BAD"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d5bb1f4b-dbe0-4d33-957c-eb973b82f02b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf0fa64eag31cdg4629gac8eg027e104b823c" version="3"/>
@@ -178,7 +178,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF2A809F"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f4bfbc7e-60e6-40c1-b5c1-5119a6ac08f3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h46fc1313g1812g488cgbe3fgd0cf71058040" version="3"/>
@@ -186,7 +186,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF267390"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="744cf9e1-feee-42f7-9265-016b2747bcea"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7f08c730g0ec8g46begaa44g5c774add82d7" version="2"/>
@@ -194,7 +194,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF1C657E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="0805dcb1-6558-4206-a524-41d8d7d9a3bc"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h180390fag268ag469bgb560gde5e3aa13730" version="2"/>
@@ -202,7 +202,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF165C73"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b15b20cf-a0e8-4611-a75f-5a2c99890e62"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb6e4657fg3bfdg4f63g82cdg66565d8e388d" version="2"/>
@@ -210,7 +210,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF0D5368"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2a50371c-c94e-48c7-b2a8-4cd038c14727"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hac825cb4gbb9bg4ab2gac79g9f478af91905" version="2"/>
@@ -218,7 +218,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF00475A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1c70ee00-da3c-436b-85eb-405a70f246c3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h42dac6ccg867dg49e8gaf5fg89693168b00b" version="1"/>
@@ -226,7 +226,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 13"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF003445"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="5027d1ec-bbfd-4eee-ab41-383a496b977b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6c8cde85g86f7g494agaa71gfa5efae9135f" version="1"/>
@@ -234,7 +234,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 14"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF00222E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cc09d5a7-e4eb-4ea3-917a-1fc603d825c3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf7980d7eg58e7g4d02g8c08ge894ada0a833" version="1"/>
@@ -242,7 +242,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 15"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF001C2A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="67950366-6d98-4b51-9682-ef6d3ca3239c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc67b376age353g4866g9520g67455e8c88fd" version="1"/>
@@ -250,7 +250,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 16"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF00121D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d1d47b40-4732-46d4-955c-d68a9006657e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h13c8293cgfca1g480cg8972g20edbc7164a0" version="1"/>
@@ -258,7 +258,7 @@
                     <attribute id="Name" type="FixedString" value="Blue 17"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF000515"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="56d072db-73d5-47c6-a31c-d7cebaf8fb02"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc16cdcc8g4707g471eg9298gfb100ce1f126" version="3"/>
@@ -266,7 +266,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB97738"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a70606d7-0c90-47fc-8ffb-6c5800ada200"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0070c99bg8713g4088g9474gbe400332d3ab" version="3"/>
@@ -274,7 +274,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB37335"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ec39d467-eca6-4d44-ba64-756fb5b6c5f4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc0bce4e9gce0bg4b40g9671g7361b4bfbd73" version="2"/>
@@ -282,7 +282,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAD6E32"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a9547719-e41e-48b3-98c0-5b8847654388"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h99875199gc1bfg4036gbe04g0fd2e350bb65" version="2"/>
@@ -290,7 +290,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA66A2E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="821f0f70-cf40-425c-82a8-f49988cf5fd4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd983a3e7gb2ddg4bf8g904eg96addf143fed" version="2"/>
@@ -298,7 +298,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9F662A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="0a12871d-569a-4bbc-8bc1-1eae627f88c5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd415b60dgd89bg4302g9243g8ccc82ac0a00" version="2"/>
@@ -306,7 +306,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF976026"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7d963263-bba3-4a3d-a97a-c14f02b224eb"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h63e72929g7832g49c7gad3eg594fae5e3f9f" version="2"/>
@@ -314,7 +314,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF905C26"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dfffbd1e-5c4a-47c7-b14a-29519d77af2d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h98606a62gc38cg42ecg8904g5be280a19949" version="2"/>
@@ -322,7 +322,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF875522"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="afc1d404-1fb3-4b61-8a44-9128c9e82e8b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h705ac419g9560g45eeg9d72g020a09355081" version="2"/>
@@ -330,7 +330,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF7E4F1C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="35a6fba5-abb7-4ad8-a228-ccb15ce177cd"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hed966f0egdd8dg4445ga06fga2493cee2a63" version="2"/>
@@ -338,7 +338,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF734916"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="38be0347-adc6-4fde-a2de-84c4a0b9c812"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf506c0d1gaf33g4ca4gb6f7g90b6ebd033e4" version="2"/>
@@ -346,7 +346,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF68400D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bbc074a3-d902-4668-bb30-b13120413cb4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5ac5dcb2g1ce7g48b7gb4f4ga55e920816fa" version="2"/>
@@ -354,7 +354,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A3800"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="92f9644c-e1c7-4711-a0ff-0087ad536c99"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd0e4e766g99a6g4119gaaacgdd772bf3e98e" version="1"/>
@@ -362,7 +362,7 @@
                     <attribute id="Name" type="FixedString" value="Brown 13"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF402500"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="68e7de4c-4bbf-4483-b01c-32e5140e126c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="he3712735gfa04g4a86g95cfge1db5a87c88f" version="3"/>
@@ -370,7 +370,7 @@
                     <attribute id="Name" type="FixedString" value="Green 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF38B962"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cf927793-49ed-4b62-bef6-31d0d7ec4de2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h714e064ag1957g4d84gb868g874e49c1b04b" version="3"/>
@@ -378,7 +378,7 @@
                     <attribute id="Name" type="FixedString" value="Green 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF35B35F"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="21b235bd-6fde-4610-8aa5-1e374848fd78"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h15f89696g8264g4f79gb797g7a1bd13b5abc" version="3"/>
@@ -386,7 +386,7 @@
                     <attribute id="Name" type="FixedString" value="Green 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF32AD5C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="8a2a322b-cebd-4877-9c79-02c2618fa05b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h915df017gd65ag46acg8f16g26b8f38e31b2" version="2"/>
@@ -394,7 +394,7 @@
                     <attribute id="Name" type="FixedString" value="Green 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF2EA658"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c87566ff-c08b-4cf6-a1a6-04b2649bdafb"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha5411f3egf1a9g442ag9d55g99342f609561" version="2"/>
@@ -402,7 +402,7 @@
                     <attribute id="Name" type="FixedString" value="Green 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF2A9F55"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="13504cc5-ab30-4eda-8c2c-f684d5d1dfa0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5eedd3d1g5ac9g48a7ga379gb3540257599e" version="2"/>
@@ -410,7 +410,7 @@
                     <attribute id="Name" type="FixedString" value="Green 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF269751"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="039625d5-d806-4355-a6cf-9cfef7f520bd"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6cd3cf63g98abg406egbca7g2e5b613e98e2" version="2"/>
@@ -418,7 +418,7 @@
                     <attribute id="Name" type="FixedString" value="Green 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF26904F"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e6c78e76-e4fe-4517-bde8-a9b11621a9f4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha1872e59g005dg4303g9235gf4c2cf5f4667" version="2"/>
@@ -426,7 +426,7 @@
                     <attribute id="Name" type="FixedString" value="Green 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF22874B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="76fa1439-5e86-4008-ad16-81aae1cfb916"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3f46e74cg16fcg41d0ga26bgf8a92cb372c3" version="2"/>
@@ -434,7 +434,7 @@
                     <attribute id="Name" type="FixedString" value="Green 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF1C7E47"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bd0fb129-2944-4892-a7e8-4bb317420e85"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6dfe478cgd155g4282g940ag15ea95ebea21" version="2"/>
@@ -442,7 +442,7 @@
                     <attribute id="Name" type="FixedString" value="Green 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF167342"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9df5fae6-d39f-4ebf-b0a5-51d7ad5850c8"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h47b6d18agcbd8g443bga8e8g7083d4e9f7db" version="2"/>
@@ -450,7 +450,7 @@
                     <attribute id="Name" type="FixedString" value="Green 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF0D683D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cdf105ef-b769-4bf2-a2e0-4b0cac0c258a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7ed3821bgc2aag40a2ga6fbg0f12749401d2" version="2"/>
@@ -458,7 +458,7 @@
                     <attribute id="Name" type="FixedString" value="Green 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF005A38"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e4b7b89b-d837-4bb7-8258-d519fe94cac9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hef8fe88egb0bfg44ebg99c0g7b8c4bbf6d1b" version="2"/>
@@ -466,7 +466,7 @@
                     <attribute id="Name" type="FixedString" value="Green 13"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF003A20"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a13509e5-17ac-46a2-9ea8-d731bf31e895"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha4d63ee7g9827g4adag8c35gac65cbc78b7f" version="1"/>
@@ -474,7 +474,7 @@
                     <attribute id="Name" type="FixedString" value="Green 14"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF002912"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="31e90cad-be03-4ca2-a23b-463702615f27"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5df38c03gdb97g4b6dga9fegc2bd818413db" version="2"/>
@@ -482,7 +482,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF7E24B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6129a524-c8d4-4e1a-a0ef-a598abae3fc6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7c853ee1gd1c3g4447g8734g13b57c759371" version="2"/>
@@ -490,7 +490,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEED947"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ed2e9533-423d-449e-9169-c3374a7056ae"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb5005230gd9d1g499agbebbg46d03d86d6d6" version="2"/>
@@ -498,7 +498,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE5D145"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="713b4a51-e5d7-4ba3-bbef-b52ba9646784"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h21430e7fg4f64g486cgb80eg30747bfda264" version="2"/>
@@ -506,7 +506,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDAC740"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f12caf80-d58d-4167-bfa1-78f01b719ade"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h86ac8109gfc53g4368gb025g852e0d90b9be" version="2"/>
@@ -514,7 +514,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD0BD3B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dccd4bfc-8c90-4387-9693-3b19e776f697"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf946e6dcg1aa5g40b7ga42bg0f72f07294ee" version="2"/>
@@ -522,7 +522,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC4B338"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="33197021-c316-4df2-afea-b2d489bdfd3f"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h10c49f0fga8fdg4b22g88fcgd7acc7bc2883" version="2"/>
@@ -530,7 +530,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB8A732"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="da5a7647-74c1-4362-b026-0327983fe831"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd65c7b3agc650g4dbdgb34cgad9a89af6f9c" version="2"/>
@@ -538,7 +538,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAA9B2E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a65516c6-7b99-48e1-90dd-0ba0398c4aac"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h4842181fg30f5g4acagaa2fg8757f6c0d184" version="2"/>
@@ -546,7 +546,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9B8D26"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e5cf97cd-9a8a-4ce9-afa7-e609b8b854ea"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h31f20fbag1039g40dcga511gb8fc3c0f58d6" version="2"/>
@@ -554,7 +554,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF897D1C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bfa7651c-fcc1-4394-96b3-72fac85617b3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h373e176bg9a70g4e2fg80afge51293898935" version="2"/>
@@ -562,7 +562,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF756A16"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cdfa0605-16ec-4108-80e5-743a533d8ef2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc0c857ebgdd7eg4c27ga056g0ff678727cc4" version="2"/>
@@ -570,7 +570,7 @@
                     <attribute id="Name" type="FixedString" value="Brass 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A5100"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e23f2578-7399-4ef0-95f9-279c9551aac9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h4e1405e5gaabfg4762g8066g149808d059fc" version="3"/>
@@ -578,7 +578,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF7AD79"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e830ad5b-65d5-4241-a671-4d9baaa71444"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd08f9562g81ecg4ea1gae55g0b4d871baa84" version="3"/>
@@ -586,7 +586,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEEA775"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1e890c99-e496-44c1-89a0-319f3d413418"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h4d16c3fcg6355g4458ga500g0841a844a08d" version="2"/>
@@ -594,7 +594,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE5A071"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ac2c29c5-e3de-4a8a-8269-ff0a3dda8ae6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h43f152d2g22d3g417dg998agdcb5d1a03144" version="2"/>
@@ -602,7 +602,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDB996C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a04f00a9-3d45-4a89-b25e-3625f9b5ef4e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h231f8204g7a6fg42fbgb259g134a972e0553" version="2"/>
@@ -610,7 +610,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD09168"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f2aa65db-cf98-4580-baa4-6207d1670021"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h05d68319gc7fag40ecg91e4g0364a563e358" version="2"/>
@@ -618,7 +618,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC58862"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="3c4dc5fa-f5dc-4768-ac1b-edca191dda1a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hca88a873gb9c6g45a8gab4cg362de3594b48" version="2"/>
@@ -626,7 +626,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB8805D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d73b0bfe-48c6-4800-834c-98fc9070242c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc9bf46fdgd586g4ac0gb657g434e8d0c6683" version="2"/>
@@ -634,7 +634,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAA7656"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="21288aa6-907d-4033-96c0-04cf35ac3360"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf02cd80fg6f49g45d3ga3ecgaef44a1b3093" version="2"/>
@@ -642,7 +642,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9B6A51"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="628acb5b-d180-45b0-8cb5-2be66258cf61"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6f7885d2g702cg4af7g97a9g66d24f76c623" version="2"/>
@@ -650,7 +650,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF8A5D49"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="986f3e56-e79c-46fd-8b26-f23dd7cf06ee"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0c5af408g2b42g482aga0b9gf64910bd1203" version="2"/>
@@ -658,7 +658,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF754F42"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7914464a-2bba-473a-bdfc-f51a2906b459"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha6bcab9bg0addg4a76g82efg2b4c20d7059f" version="2"/>
@@ -666,7 +666,7 @@
                     <attribute id="Name" type="FixedString" value="Bronze 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A3B38"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bf0d1173-97dd-40a8-b588-6010cc276f34"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha381ca25g4dd4g42bcg8e8fg372ef1e9d853" version="2"/>
@@ -674,7 +674,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF56938"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2823253b-524d-4f18-a5d5-50c917c83db5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h39d64258ge5bag4698gb235g7408bf31561c" version="2"/>
@@ -682,7 +682,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEC6535"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7b7bd184-bf51-481c-8216-21e03937a461"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="haf6b5763g9cadg47fag8632g47412b7ae8a3" version="2"/>
@@ -690,7 +690,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE35F32"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="579fd43e-cd06-4f8c-8aae-387213f028d8"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h904fb073g9fceg44b2gb11cga3fe364305bf" version="2"/>
@@ -698,7 +698,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD95A2E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="8eecc170-33b0-41a8-88d5-8849aac02091"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd566959eg7b34g4810gb5f2g5d0e8be29c82" version="2"/>
@@ -706,7 +706,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCE552A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="833e146d-de55-4ae3-93ac-6b19598a8681"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5b71be29g10e2g43c5gb14cg91d4433a70a6" version="2"/>
@@ -714,7 +714,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC34F26"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="8717252e-1f63-495f-b7a6-1f1ed4974c71"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h50040569g6d3eg4ac9ga0d9g4c9a260dce17" version="2"/>
@@ -722,7 +722,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB64726"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="222cddb1-6ac5-46a0-93a0-45ec455a2e62"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7cf3ef86gf905g45e0g8001g2144471aed81" version="2"/>
@@ -730,7 +730,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA94022"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9babb850-4302-49ca-8071-97f89374548e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h2272b1a7g304ag42abgb59dg6e324b89d968" version="2"/>
@@ -738,7 +738,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9A381C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="eae808d6-f5b3-466b-9b63-896434255492"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3c64b55dgb4ebg4d06g8834gd4661a3467b4" version="2"/>
@@ -746,7 +746,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF892E16"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1fe89355-74a7-45cc-8f67-003a7e6c9907"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc765a63bg210ag429bga59fgfcc935d5afd6" version="2"/>
@@ -754,7 +754,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF751C0D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a7b0f701-de15-44b5-95f3-4c8d40398ad2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h92b6c726gb28eg4a87g9f49g8d2090718a7c" version="2"/>
@@ -762,7 +762,7 @@
                     <attribute id="Name" type="FixedString" value="Copper 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dd4ddb8b-cf7b-4278-b792-a07a629a8a95"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd2157e92g5da4g47f7g8fd7gf2fac69d2e8c" version="2"/>
@@ -770,7 +770,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEFA540"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ee8de1a9-00b3-4d93-929f-4da7d968371b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h2e22b6cbg6210g43a8ga6f9g7194d49cfcfa" version="2"/>
@@ -778,7 +778,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE69F3D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="700111f2-2822-4868-832a-47db99f7c352"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7eacf8f5gce27g47b2g995bg08320ff0ba7b" version="2"/>
@@ -786,7 +786,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDD993B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ee9ca460-ba5c-4f2f-a172-d3aa190b29fd"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf0b5a558gbecdg499fgb630gcf4baf8216e1" version="2"/>
@@ -794,7 +794,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD49235"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="25c55b62-2d55-4229-b2d2-9cb9843a97bc"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3802b5acg2545g4b16ga40fgca671278bc75" version="2"/>
@@ -802,7 +802,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC98A32"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="5ee3aa14-e4de-4ab7-9857-ecefa26e2007"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5e2e450eg2c53g4fbfgacecg2af7658dad1d" version="2"/>
@@ -810,7 +810,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBE822E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="57226fc0-9b33-4b9e-9280-f13919fe4ca4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h71067e47g1ef6g477bgb845g6e302cef01e0" version="2"/>
@@ -818,7 +818,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB27A2A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f97b6353-ee26-4095-a454-9fdb75cfd7d3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hceff7c31g723fg405ag8c80ga2a0d13d1c0b" version="2"/>
@@ -826,7 +826,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA67126"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c9ec19a6-1dd8-4faa-879f-64baede6cd60"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb2613372gb590g4d56g95a9g6f9a59a71259" version="2"/>
@@ -834,7 +834,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF976622"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fa964022-d792-4b24-ab11-d39ce9126112"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h307519ddgb633g44fegb388gfc8410e59519" version="2"/>
@@ -842,7 +842,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF865A16"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="124594fb-eff4-45f0-a08c-9bad4aa7bdb1"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h40daaf19g2d69g49aaga3afg6d18b3209eec" version="2"/>
@@ -850,7 +850,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF734D0D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2c57ef9e-22ed-451a-ab89-b32ef61b2c31"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha29a8b64g0ac4g4000gaa52gda159756a6ae" version="2"/>
@@ -858,7 +858,7 @@
                     <attribute id="Name" type="FixedString" value="Gold 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A3B00"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="21d54fd7-2778-4734-9799-bea74d4715e9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hbbec60f8g19dcg4f2dgbbd6g1c38fe3806be" version="2"/>
@@ -866,7 +866,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE2E2E2"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c7f8ef1b-1606-4948-8209-3d88555fccd0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="he1bd3a03g5dfdg48e7g92d5g3725dc2a093d" version="2"/>
@@ -874,7 +874,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDADADA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="0838e016-c6e5-48b7-b8a1-bbb81690a536"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6ed44895g46a0g4a11gbdcfg28b78063f210" version="2"/>
@@ -882,7 +882,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD1D1D1"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f7bc2c58-43ef-4780-8ea5-f651d836cae7"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h36342690gbc35g41a3g8ccbg488dd185572a" version="2"/>
@@ -890,7 +890,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC8C8C8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="aac61a97-3d3c-466e-a56b-e4507a4f84cb"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h641226ceg4a92g4764g96e5g55e8e49fbada" version="2"/>
@@ -898,7 +898,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBFBFBF"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="092c9a7d-4b0f-43f5-9cd6-942d07ab038f"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h667b30c5g1af7g4bbdga66cg2ff94a05767a" version="2"/>
@@ -906,7 +906,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB4B4B4"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e42af218-d33b-4c04-9604-e9d16f4b790b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha2a1ddd7g4391g4bf4gb79ag7e045e8df3ee" version="2"/>
@@ -914,7 +914,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAAAAAA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="32553834-1cbf-4033-a1e8-dcc8a1f18bb6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h4b673d92g8ceeg42fagb099gc5ff307b7536" version="2"/>
@@ -922,7 +922,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9D9D9D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cefef65f-609f-4637-83c7-445fdd8c6ecc"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hbdeb1113gd1deg4c41g9675g0bcb37fd4390" version="2"/>
@@ -930,7 +930,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF909090"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="5baeb7c8-c3e8-457c-af98-c8352508fbbf"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h116b4d14g0b84g4452gae41g7700fc403532" version="2"/>
@@ -938,7 +938,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF818181"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="93f3976f-e293-4e11-a5fd-dacd62e4c750"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h9debf3b4gbccfg437bga2c4gb49d944d7e2c" version="2"/>
@@ -946,7 +946,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF6E6E6E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="4755a7d0-21ab-4e4e-99c6-3e1ddbec9f77"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h8514128dg34e1g400egb66cgf76eac97789d" version="2"/>
@@ -954,7 +954,7 @@
                     <attribute id="Name" type="FixedString" value="Silver 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF585858"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ba40d2e8-43a8-4a73-8698-b41fe5835adc"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5bd7c5f5g033bg4456gac58ga2ba904185c8" version="2"/>
@@ -962,7 +962,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF098E0"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f3d82d11-5f6c-4af7-bc8d-6d338cabcc4e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h479d64efg1bafg4ca8g8175g0264e5450590" version="2"/>
@@ -970,7 +970,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE893D8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7faf4533-40c7-4137-967c-69124890d2e0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h361c1bc5g68a9g4db0g9bf2gc270d9847189" version="2"/>
@@ -978,7 +978,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDE8CD0"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6a0d2f0c-c6da-463c-862e-1093e077a82d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd252454cg020cg4e64gaa96g7682eb2df03c" version="2"/>
@@ -986,7 +986,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD586C7"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="983fbc6d-b5ff-49ce-ad74-40c52f5fd05b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h48a8aa5ag3da0g4e94gb696g930c472fe403" version="1"/>
@@ -994,7 +994,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCA80BD"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="4de56c27-7039-4890-b610-e5c743a33fd3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc7bf96eag07a8g4f16gaf70g90f6fc826d3c" version="1"/>
@@ -1002,7 +1002,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBF78B2"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="007624d4-9377-4cd7-84e6-f407e3a5e02e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6e27a862gb3a1g4c21ga481g037277d7062a" version="2"/>
@@ -1010,7 +1010,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB471A7"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fafcce6f-2a09-4f0d-966d-4b3259733b2b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7c944ecag7003g426dga493gc063f3480fb0" version="1"/>
@@ -1018,7 +1018,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF985F8D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b56476cc-7c2d-44a8-ac63-7d50304a6d0d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0c6c3ab8gcffdg4034g9ce6gd719debb6c53" version="1"/>
@@ -1026,7 +1026,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF87557E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="12c825c5-bbc1-47a7-9f63-dcabcc171579"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf8c9422fg570ag4eaeg88abgaa0de7cdab54" version="2"/>
@@ -1034,7 +1034,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF87557E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="81ec1300-3810-47f2-b613-089a57b1ac2c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3f40f7fbge9beg43c2g84c9g99ba8e5fdd95" version="1"/>
@@ -1042,7 +1042,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF73476A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b792b7cb-019b-4b59-89e6-d483ed7f2da9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6e9596c3g4121g4434g8b9bg8b8089fd6aa7" version="1"/>
@@ -1050,7 +1050,7 @@
                     <attribute id="Name" type="FixedString" value="Pink 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A3853"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c3469da7-199c-47f8-aa02-1342b95a3ba8"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd3e8b84cgead7g4ae2gbd47g5f0e6adcb033" version="2"/>
@@ -1058,7 +1058,7 @@
                     <attribute id="Name" type="FixedString" value="Red 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF40000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="218a683d-5dcc-453e-b157-29aa906217e0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="he44fb1a0g5bf1g4fe6gbe90g3be0f7e38eab" version="2"/>
@@ -1066,7 +1066,7 @@
                     <attribute id="Name" type="FixedString" value="Red 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEC0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="3ffe6f44-8de1-4874-bd90-985b63322e8b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="heb510454g7af6g4a3bgba9ag0511cda76321" version="2"/>
@@ -1074,7 +1074,7 @@
                     <attribute id="Name" type="FixedString" value="Red 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD70000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ba10bd33-da3b-4d24-8b1f-47098b3a9f0b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1a0d06feg9156g4bffg880egc2f847ba25da" version="2"/>
@@ -1082,7 +1082,7 @@
                     <attribute id="Name" type="FixedString" value="Red 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCD0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="40735f5f-d29b-4ce4-ac9a-173596fc492e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h4f59ea86g6d7eg4dc1ga25dg146ca4dac4a2" version="2"/>
@@ -1090,7 +1090,7 @@
                     <attribute id="Name" type="FixedString" value="Red 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC20000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a154d843-58a7-4b32-9ac7-8939c9e09aa6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5da36668g9106g43acga1f0ge4160c4d663d" version="2"/>
@@ -1098,7 +1098,7 @@
                     <attribute id="Name" type="FixedString" value="Red 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB60000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="287789fe-41e6-4c57-a5ae-fe730266ea9b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h20358b14ge049g4950g8af9g5a5ec7c3261b" version="2"/>
@@ -1106,7 +1106,7 @@
                     <attribute id="Name" type="FixedString" value="Red 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB60000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="87aef64d-9447-4883-84b2-e2912b50584e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h467b4d69gd904g4ee3g9cbfgd6c50743fc3f" version="2"/>
@@ -1114,7 +1114,7 @@
                     <attribute id="Name" type="FixedString" value="Red 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA80000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b0ce821e-1ac5-4fc0-98de-c58e9b72bce7"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h89bae063g3ffag40feg9378g279a2c03a862" version="2"/>
@@ -1122,7 +1122,7 @@
                     <attribute id="Name" type="FixedString" value="Red 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9A0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="08fb42bd-ab98-4096-8b03-6bb916b7e519"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h888eef2eg7599g4313g8a84g01389634b615" version="2"/>
@@ -1130,7 +1130,7 @@
                     <attribute id="Name" type="FixedString" value="Red 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF880000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="107ee9db-2bde-4a57-a39e-c1a0933d7677"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h54fc71f1g4468g418bgbec3ge1dd38b269e9" version="2"/>
@@ -1138,7 +1138,7 @@
                     <attribute id="Name" type="FixedString" value="Red 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF750000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d482e909-f826-4003-b924-403a1d37570c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf27798e9g8553g4c05gba8fgfdf57d8ee079" version="2"/>
@@ -1146,7 +1146,7 @@
                     <attribute id="Name" type="FixedString" value="Red 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="676535e1-be81-4b96-9bee-e425d81ad567"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha567720cg5e0eg4d57g9a2dg136afb8b7236" version="2"/>
@@ -1154,7 +1154,7 @@
                     <attribute id="Name" type="FixedString" value="White 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFFFFFFF"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="bf29da3f-9ec6-418e-8748-c25c6c6fdeef"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0ec88370g45e2g4eadgbebfg80776ed3f27a" version="2"/>
@@ -1162,7 +1162,7 @@
                     <attribute id="Name" type="FixedString" value="White 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF8F8F8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="376f16e8-c3a8-4b1c-8f68-7114428b366a"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5841fab6g01d6g4236g8c91g5c326f96af0e" version="2"/>
@@ -1170,7 +1170,7 @@
                     <attribute id="Name" type="FixedString" value="White 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF1F1F1"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d904f0d3-fff3-4b1e-b8b7-c4ddb0ac9fef"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0655b3c9g2abcg452egac72g57e0942e9195" version="2"/>
@@ -1178,7 +1178,7 @@
                     <attribute id="Name" type="FixedString" value="White 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEAEAEA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7e05c3f9-c0d5-43ea-b05c-df5c65157218"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc76aa0a3gc3ccg4c98g9f9bgd3fdb77eb7b2" version="2"/>
@@ -1186,7 +1186,7 @@
                     <attribute id="Name" type="FixedString" value="White 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE2E2E2"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="707e2058-1b14-4738-9198-f6277e6a6647"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha898f51cgd520g448ag86eegad72e9a44fe8" version="2"/>
@@ -1194,7 +1194,7 @@
                     <attribute id="Name" type="FixedString" value="White 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDADADA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="054b2202-a015-4520-9310-e8ca6dcb1300"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7dde6244ga82bg49a3ga112g3c453bc3e374" version="2"/>
@@ -1202,7 +1202,7 @@
                     <attribute id="Name" type="FixedString" value="White 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD1D1D1"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cb2f553d-3b48-4ad3-a906-9f433c26a284"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1d418292g6e6fg44f7g8f9bg0ef2f319fbce" version="2"/>
@@ -1210,7 +1210,7 @@
                     <attribute id="Name" type="FixedString" value="White 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC8C8C8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6b5df2cb-1a3f-4fa9-9de2-a1fefd8fd6e7"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h8185da0agc5e4g49efgb9aegd1209b84d036" version="2"/>
@@ -1218,7 +1218,7 @@
                     <attribute id="Name" type="FixedString" value="White 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBEBEBE"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a0d93a07-2f3f-4bf8-b8eb-54ef712db3de"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb5d9e777g3548g4eadg8370g639350b98c9e" version="2"/>
@@ -1226,7 +1226,7 @@
                     <attribute id="Name" type="FixedString" value="White 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB4B4B4"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dbd87a8c-1543-44bd-88b4-2fc39cad0ad5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h28fbafe6gf655g47feg9a33g27adf4170d31" version="2"/>
@@ -1234,7 +1234,7 @@
                     <attribute id="Name" type="FixedString" value="White 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA8A8A8"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="07a81ee1-0e58-400d-a4ed-b7ff6f288a31"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0c0e4f48g4022g49a9g95c3g978a0df2ef1b" version="2"/>
@@ -1242,7 +1242,7 @@
                     <attribute id="Name" type="FixedString" value="White 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9C9C9C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="4a372129-1ca6-40de-88dd-8bdee44ead23"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h6ae4a8b9g76e3g4bc1g9307g8d5f9a2687ec" version="1"/>
@@ -1250,7 +1250,7 @@
                     <attribute id="Name" type="FixedString" value="White 13"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF808080"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="03628557-7ff6-46bf-8423-24364f07caa8"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h9ede9c7cg30feg4117g9903ga0a022b0a788" version="2"/>
@@ -1258,7 +1258,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCE80F0"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="89dddaa1-739c-4572-afc6-bc9eb46a9d90"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0532482bgd203g4ae9gb954gb3192ca1ce5a" version="2"/>
@@ -1266,7 +1266,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC67CE7"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="20d3dadb-7f9b-423e-820f-e09864ab33f3"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hc2c7dfd8ge6f2g45a5gaf09g4aab1dbcdb10" version="2"/>
@@ -1274,7 +1274,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBE77DE"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f15ca0de-4fcb-49d1-88cc-3285744f9691"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd04c9cf9g94a5g46fag8bd0g1284fee628d9" version="2"/>
@@ -1282,7 +1282,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB672D5"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1a10cac2-62c7-477f-8a37-513029dcea2d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1acb4600g876ag4b88g85feg84cab60e7f36" version="2"/>
@@ -1290,7 +1290,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="45a32379-4640-4652-85c0-a9517353cd4b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1b693e92gb4eag4d90gb61cgbe28f5886740" version="2"/>
@@ -1298,7 +1298,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2fc310e8-82b9-4178-a0ae-d6928de7a242"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hdfe30473gb7b9g4338gacb8gff8dc308aceb" version="2"/>
@@ -1306,7 +1306,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="95d4faad-97d2-45b4-a963-8cf8ec991dd6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h682fd4ceg0b9fg417ag89f8gb7ebeb18132a" version="2"/>
@@ -1314,7 +1314,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF9B60B4"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9654c63f-9ad6-49f9-837b-f0bd9313bc4d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h91d74248gb58dg4080g8d33gcdee102a63e8" version="2"/>
@@ -1322,7 +1322,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF825399"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="339f73ad-eb25-4570-9848-ddf830635712"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h846460bbg377cg480dg9777g8dc87a5bb384" version="2"/>
@@ -1330,7 +1330,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF825298"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="042b784b-203b-41ee-aaff-b041d48c8bfc"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h187814fag8c0fg4d56g9430g619bdacbe9ec" version="2"/>
@@ -1338,7 +1338,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF624273"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fc5f7965-575b-43ab-9e22-c33fd40e81a6"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hb7f07cfcg4a45g4650g9287gbd93855788dd" version="2"/>
@@ -1346,7 +1346,7 @@
                     <attribute id="Name" type="FixedString" value="Purple 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF4B385A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="3d2cc80d-abb9-43f5-9c60-a3ea119a4ec2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h037b8fbfg6e44g45d2ga9fcgae55119ac534" version="2"/>
@@ -1354,7 +1354,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF36C2A"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="942f7310-5467-45c4-b9a9-3c6efee48b2d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="he92c5c18g0f7bg4ca9g9a17g74f993507425" version="2"/>
@@ -1362,7 +1362,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE16226"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="251b8586-dd60-4417-8d01-ccd4428db347"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h81cc31efg9911g4871gb47fgde4d9f3b4563" version="2"/>
@@ -1370,7 +1370,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD75D22"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ff0bd76b-33b3-4319-b7ea-1228d0703ec0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0211255cg0153g4d1agb10agbd7d603f8941" version="2"/>
@@ -1378,7 +1378,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCD5622"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9e0f538e-5a5e-4e06-95fe-2111c173309b"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h21027e8bg7f30g49f8gb939gb3bdde26447c" version="2"/>
@@ -1386,7 +1386,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCD5622"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7f89a0bc-257e-4c89-b88f-d457117114d0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h22ff1dfag0012g475cg9212g6ca89c6ed7a4" version="2"/>
@@ -1394,7 +1394,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC2511C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c69c05c4-9aca-499b-a6c2-4b38179cedd4"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hba01ef88g8962g4803ga307gfa4cf2492d70" version="2"/>
@@ -1402,7 +1402,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB5491C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fcb3f85f-35ad-4f1e-91f6-8532ade76d65"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hf19c9cf9gdf06g4ee4g9dbbge168a8a7f95b" version="2"/>
@@ -1410,7 +1410,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFA84216"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="93492cc9-b028-412e-af5f-ff1a19c0ddef"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h74cc5756ge25bg4b56gbd63g9b82e09abb53" version="2"/>
@@ -1418,7 +1418,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF993816"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fd86f820-4c05-4a6a-9be0-77576e568c45"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h35242785ga942g44d9gbb30g11a216745949" version="2"/>
@@ -1426,7 +1426,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF882E0D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="129e8b38-b9b0-4b77-bce4-38214190c6e2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hcc3515d4gb148g45a9gaf91ga10b52d649f2" version="2"/>
@@ -1434,7 +1434,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF731C0D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1f98efe8-9876-448f-9d8b-cec9b04422a9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1a1ec277ge943g4861gbceegaca8bb85d6ca" version="2"/>
@@ -1442,7 +1442,7 @@
                     <attribute id="Name" type="FixedString" value="Orange 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="83816dff-5267-4522-af52-b39451d2ee0d"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h22ce7dd7gb349g4162g8aceg708ef3613d82" version="1"/>
@@ -1450,7 +1450,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 1"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF9E955"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e6edba8c-fdf7-4249-85df-33011429b177"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="had5be776g4efeg47e1ga0e2gd3428398bc35" version="2"/>
@@ -1458,7 +1458,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 2"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFF4E351"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a2181165-5e3a-4de2-907c-ff3afef4827e"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h52789a87gc3d0g4d46ga853g41fa1ab59834" version="2"/>
@@ -1466,7 +1466,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 3"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFEEDC4D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="642daa9e-ecd6-419c-8543-c87fede4ce91"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hfa0ab5eeg32fag4d7bg8930g82d0cb37e299" version="2"/>
@@ -1474,7 +1474,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 4"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE9D649"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6cd85b34-2a01-4341-98f3-839d3f172818"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h7907957cg4486g41ceg858bge593e044ad79" version="2"/>
@@ -1482,7 +1482,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 5"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFE3CE45"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6917a233-2421-43a4-98ff-97375aadc575"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="haf62d420g4e58g4758ga703ga20105eb3c8d" version="2"/>
@@ -1490,7 +1490,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 6"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFDDC740"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a2047be6-ce41-43d0-ba3d-862e1998d3b9"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h26787546g2d87g451fgb050g2847d5cbd746" version="2"/>
@@ -1498,7 +1498,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 7"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD7BF3B"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2089c704-a453-43ad-87ec-2ecf383e1df5"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h350cbeeeg6cd3g4446g937agab2b1c968e88" version="2"/>
@@ -1506,7 +1506,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 8"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFD0B735"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="55ad9254-e0cb-4507-a331-d1c2c71fc11c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h827be51fg1325g4a83gb730gd72e2f0f6bd0" version="2"/>
@@ -1514,7 +1514,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 9"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFCAAE2E"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="289216b3-4975-45d9-955d-f36ca7a4b7f0"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha2a9e057g4e69g4b5cg8a3agc248e09b9727" version="2"/>
@@ -1522,7 +1522,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 10"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFC2A526"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="536654b1-b2eb-4ad3-8a0e-ac57723a368f"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h3235f064gb93fg489eg96c7g4efe1417a04a" version="2"/>
@@ -1530,7 +1530,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 11"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFBB9B1C"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7c016cd3-2ee6-4314-b19d-116fa15c3e4c"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h64faaef6ge94ag4376gae47g9d47a7d83a0b" version="2"/>
@@ -1538,7 +1538,7 @@
                     <attribute id="Name" type="FixedString" value="Yellow 12"/>
                     <attribute id="SkinType" type="FixedString" value="Dragovian"/>
                     <attribute id="UIColor" type="LSString" value="#FFB3900D"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2b3f9325-3ca9-4aaa-80c9-069ef4957bd7"/>
                 </node>
             </children>
         </node>
