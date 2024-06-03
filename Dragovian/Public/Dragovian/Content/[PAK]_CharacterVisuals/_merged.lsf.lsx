@@ -171,6 +171,11 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="VisualResource" type="FixedString" value="339d1252-5df0-46eb-b5e8-32903228d003" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
 						</node>
