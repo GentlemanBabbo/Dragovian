@@ -613,7 +613,7 @@
 					<attribute id="ID" type="FixedString" value="895cbd8d-13dd-4deb-b310-fd7eec63b426" />
 					<attribute id="Name" type="LSString" value="DragovianBody_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_M_Body/DragovianBody_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianBody_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -626,7 +626,7 @@
 					<attribute id="ID" type="FixedString" value="4f3028aa-7bbb-4300-8b6e-2d8e8c01145a" />
 					<attribute id="Name" type="LSString" value="DragovianBody_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_M_Body/DragovianBody_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianBody_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -639,7 +639,7 @@
 					<attribute id="ID" type="FixedString" value="93eda862-9b50-4aec-916d-5212bf312faf" />
 					<attribute id="Name" type="LSString" value="DragovianBody_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_M_Body/DragovianBody_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianBody_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -652,7 +652,7 @@
 					<attribute id="ID" type="FixedString" value="cbb2a9d4-2a68-47a6-8a6a-e1f2c3676d9d" />
 					<attribute id="Name" type="LSString" value="DragovianBody_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_M_Body/DragovianBody_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianBody_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -665,7 +665,7 @@
 					<attribute id="ID" type="FixedString" value="d6c90481-4921-42fc-b23b-caaf9f6ee7eb" />
 					<attribute id="Name" type="LSString" value="DragovianBody_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_M_Body/DragovianBody_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DragovianBody_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
