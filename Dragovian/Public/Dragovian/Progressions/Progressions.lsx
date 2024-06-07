@@ -26,7 +26,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Red Dragovian" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Dovahsil" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(4a95c768-f6d6-479c-afae-beb7f2df807f,,,,AlwaysPrepared)" /> you can add spells here
