@@ -46,7 +46,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="09159dc2-11f0-42da-b642-cfddfc4a0238" /> must be unique
-					<attribute id="Name" type="LSString" value="Dragovian_Female_Red_Player" />
+					<attribute id="Name" type="LSString" value="Dragovian_Female_Dovahsil_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="804ab869-f4fc-4cd9-a226-835316b58dde" />
@@ -81,7 +81,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="7a8b4fa3-973b-46fa-9b39-0bc7f38da704" /> must be unique
-					<attribute id="Name" type="LSString" value="Dragovian_Male_Red_Player" />
+					<attribute id="Name" type="LSString" value="Dragovian_Male_Dovahsil_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="17b5c612-c067-4400-a9fc-dae6992a27c3" />
