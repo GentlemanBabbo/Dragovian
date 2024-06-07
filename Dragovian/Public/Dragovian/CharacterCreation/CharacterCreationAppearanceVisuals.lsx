@@ -39,7 +39,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
                     					<attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
-                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="SlotName" type="FixedString" value="Wings"/>
                     <attribute id="UUID" type="guid" value="5936e944-cae4-437a-948e-bef7db7602a9"/>
                     <attribute id="VisualResource" type="guid" value="339d1252-5df0-46eb-b5e8-32903228d003"/>
                 </node>
