@@ -1802,7 +1802,7 @@
             <attribute id="Description" type="TranslatedString" handle="h21b9a5d7gc6dag4dceg8e53g9d92bcbc6e14" version="1" />   description sub race
             <attribute id="DisplayName" type="TranslatedString" handle="h4b53c6b0gabcfg4a91ga8f5g9318ca817681" version="1" />   name subrace
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Red Dragovian" />       internal name for subrace
+            <attribute id="Name" type="FixedString" value="Dovahsil" />       internal name for subrace
             <attribute id="ParentGuid" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" />      subrace of Custom Race Main
             <attribute id="ProgressionTableUUID" type="guid" value="7059b2db-a12c-4c3e-b077-ea726493c650" />    the level up stuff under the Progressions folder, diff from main race
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dragonborn" />           sound it makes when you select the subrace
