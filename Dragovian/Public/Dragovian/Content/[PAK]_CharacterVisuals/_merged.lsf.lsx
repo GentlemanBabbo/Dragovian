@@ -152,7 +152,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="d5c70379-1865-4281-86ed-7d952ce9c0ea" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e0732253-2f32-4d22-aa61-5aeaf77b3e50" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -176,7 +176,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="Slot" type="FixedString" value="Wings" />
 							<attribute id="VisualResource" type="FixedString" value="339d1252-5df0-46eb-b5e8-32903228d003" />
 						</node>
 						<node id="Slots">
