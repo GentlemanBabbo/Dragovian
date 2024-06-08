@@ -5826,7 +5826,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+							<attribute id="MaterialID" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.3DGB_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
@@ -5841,8 +5841,13 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="bdc1af1e-505c-3273-d55f-400f2de919e9" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.Horns.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="9cf559f8-ec8f-419f-b9d1-4f2db1c40125" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.DragonNeck.5" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.DragonNeck.6" />
 						</node>
 					</children>
 				</node>
