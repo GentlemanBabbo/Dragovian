@@ -25,6 +25,16 @@
 				                    <attribute id="HeadAppearanceUUID" type="guid" value="5078d0e3-8fef-4fcc-b23a-920752b0857e"/>
 				                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
 				                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+				                    <attribute id="UUID" type="guid" value="a8367614-83a8-43c2-a31f-4859bd12b457"/>
+				                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+				                </node>
+						 <node id="CharacterCreationAppearanceVisual">
+				                    <attribute id="BodyShape" type="uint8" value="0"/>
+				                    <attribute id="BodyType" type="uint8" value="0"/>
+				                    <attribute id="DisplayName" type="TranslatedString" handle="hef164fccgbaa6g4342g9d22g063cda5d328e" version="2"/>
+				                    <attribute id="HeadAppearanceUUID" type="guid" value="5078d0e3-8fef-4fcc-b23a-920752b0857e"/>
+				                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+				                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
 				                    <attribute id="UUID" type="guid" value="bc482b7d-89e2-48eb-94d0-920e794037b5"/>
 				                    <attribute id="VisualResource" type="guid" value="d616750e-a655-2ea6-3d22-fadf08e2155e"/>
 				                </node>
@@ -401,6 +411,19 @@
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="1158732a-82b2-49b1-b17d-161418b5148c"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="f863b45a-655f-4de2-8cca-f85e1df7ba50"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+
+				<node id="CharacterCreationAppearanceVisual"> Dragovian - C
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="7fa6d6d7-cd50-4668-bd2f-5e0b8f8af9b1"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="77ca7f30-1df9-4dbc-8cba-3720d2a84f7b"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
