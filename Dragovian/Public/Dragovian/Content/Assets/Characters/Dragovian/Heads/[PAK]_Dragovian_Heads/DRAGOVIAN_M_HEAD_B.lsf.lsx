@@ -1437,7 +1437,6 @@
 							</children>
 						</node>
 						<node id="Bones">
-							</children>
 						</node>
 						<node id="Bones">
 							<attribute id="MapKey" type="FixedString" value="upperlip_edge_r_02" />
