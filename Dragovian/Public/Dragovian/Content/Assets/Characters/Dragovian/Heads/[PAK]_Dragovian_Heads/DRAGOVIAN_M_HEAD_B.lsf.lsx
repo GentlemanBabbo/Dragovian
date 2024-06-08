@@ -28,14 +28,14 @@
 					<attribute id="ID" type="FixedString" value="b7fe8486-7418-4af9-8bd7-a0a7931f7e9f" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Head_Base" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Head_BaseB" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_Head_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadB_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_Head_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadB_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -5097,10 +5097,10 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="f863b45a-655f-4de2-8cca-f85e1df7ba50" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Head_A" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Head_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="025ac1d2-72e7-9186-2ccc-5397948d815a" />
+					<attribute id="SkeletonResource" type="FixedString" value="354c9103-4e94-4190-e252-a92f9d7b47d5" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -5126,7 +5126,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="24bbfd60-3abb-4e5a-950d-257aa0bf832b" />
+							<attribute id="MaterialID" type="FixedString" value="b64099eb-45fe-a297-ad2c-df3edf9c7169" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_B.Dragonhead.0" />
 						</node>
 						<node id="Objects">
