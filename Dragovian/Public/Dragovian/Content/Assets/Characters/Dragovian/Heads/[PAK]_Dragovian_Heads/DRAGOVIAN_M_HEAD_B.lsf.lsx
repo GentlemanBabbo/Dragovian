@@ -4179,7 +4179,12 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_B.5DGB_M_NKD_Head_A_Eyeshadow_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_B.5DGB_M_NKD_Head_A_Eyeshadow_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="279a874e-f57d-4160-87db-2668ad4550a0" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_B.6Gem.5" />
 						</node>
 					</children>
 				</node>
