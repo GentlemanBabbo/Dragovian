@@ -13,7 +13,7 @@
 			<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 			<attribute id="HairPresetResourceId" type="FixedString" value="" />
 			<attribute id="HairType" type="uint8" value="0" />
-			<attribute id="ID" type="FixedString" value="2faa16f5-50a3-4df4-ad5a-1c1645d9c2f8" />
+			<attribute id="ID" type="FixedString" value="6ecc90ca-0842-43b5-9402-b1c6eadb432f" />
 			<attribute id="MaterialType" type="uint8" value="0" />
 			<attribute id="Name" type="LSString" value="Dragovian_M_DGBTop_FA" />
 			<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
