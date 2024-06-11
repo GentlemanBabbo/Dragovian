@@ -5844,11 +5844,6 @@
 							<attribute id="MaterialID" type="FixedString" value="fd8a4278-526a-474d-bc10-4cffae5f7871" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.Horns.5" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9cf559f8-ec8f-419f-b9d1-4f2db1c40125" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.DragonNeck.6" />
-						</node>
 					</children>
 				</node>
 			</children>
