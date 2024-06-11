@@ -5841,7 +5841,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="fd8a4278-526a-474d-bc10-4cffae5f7871" />
+							<attribute id="MaterialID" type="FixedString" value="9e9dcbc3-c93a-12ae-52c6-a21530f483e2" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.Horns.5" />
 						</node>
 					</children>
