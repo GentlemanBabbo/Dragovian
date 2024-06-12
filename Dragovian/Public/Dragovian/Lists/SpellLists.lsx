@@ -4,15 +4,25 @@
     <region id="SpellLists">
         <node id="root">
             <children>               
-                <node id="SpellList">Spelllist Cantrips
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="All"/> 
                     <attribute id="Spells" type="LSString" value="Target_Claws_Dragovian;Projectile_Fly"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="5bb41c11-5bc0-4356-8e4c-dbf715e2e962"/> the UUID, needs to be unique
                 </node>
-                <node id="SpellList">Spelllist Cantrips
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Dovasil"/> 
                     <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Acid_Dragovian;Zone_BreathWeapon_Cold_Dragovian;Zone_BreathWeapon_Fire_Cone_Dragovian;Zone_BreathWeapon_Fire_Line_Dragovian;Zone_BreathWeapon_Lightning_Dragovian;Zone_BreathWeapon_Poison_Dragovian"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="4a95c768-f6d6-479c-afae-beb7f2df807f"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage_Dragovian"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="7a11e0cf-09fd-4add-a6f3-d59b5c4d5cbd"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="e85abfdc-4beb-4c82-88b7-36f83065887a"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
