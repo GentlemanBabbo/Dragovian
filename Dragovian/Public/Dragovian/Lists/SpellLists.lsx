@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">Spelllist Cantrips
                     <attribute id="Comment" type="LSString" value="Red, Gold"/> 
-                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Fire_Cone_Dragovian;Zone_BreathWeapon_Fire_Line_Dragovian"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Acid_Dragovian;Zone_BreathWeapon_Cold_Dragovian;Zone_BreathWeapon_Fire_Cone_Dragovian;Zone_BreathWeapon_Fire_Line_Dragovian;Zone_BreathWeapon_Lightning_Dragovian;Zone_BreathWeapon_Poison_Dragovian"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="4a95c768-f6d6-479c-afae-beb7f2df807f"/> the UUID, needs to be unique
                 </node>
             </children>
