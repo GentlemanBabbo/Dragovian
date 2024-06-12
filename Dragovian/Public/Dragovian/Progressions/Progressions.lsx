@@ -25,6 +25,26 @@
                   <attribute id="UUID" type="guid" value="fa73916b-8848-41a2-a40f-117652e9c4a8" />  this one must be unique
           </node>
         <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Dragovian" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" />see below for explanation
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="c235d5b0-9bd9-41f4-9967-88d54e6429e6" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="263bb9ee-f2e7-4b98-8631-10c172653a87" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Dragovian" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" />see below for explanation
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="c235d5b0-9bd9-41f4-9967-88d54e6429e6" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="621aba82-b4f6-4123-b842-8facf3bc1289" />  this one must be unique
+          </node>
+        <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dovahsil" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
