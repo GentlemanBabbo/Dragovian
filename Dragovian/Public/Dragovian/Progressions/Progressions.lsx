@@ -29,7 +29,7 @@
                   <attribute id="Name" type="LSString" value="Dovahsil" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(4a95c768-f6d6-479c-afae-beb7f2df807f,,,,AlwaysPrepared)" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="SelectSpells(4a95c768-f6d6-479c-afae-beb7f2df807f,1)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="7059b2db-a12c-4c3e-b077-ea726493c650" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="cff3b0b4-f925-4e7d-9658-80b69d9cfd2c" />  this one must be unique
