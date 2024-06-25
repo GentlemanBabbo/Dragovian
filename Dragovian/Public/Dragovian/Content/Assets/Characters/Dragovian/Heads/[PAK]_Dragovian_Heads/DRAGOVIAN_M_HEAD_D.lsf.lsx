@@ -5790,7 +5790,7 @@
 					<attribute id="Name" type="LSString" value="Dragovian_M_Head_D" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="bd60097a-30c7-39db-83ba-808e25eb8aa2" />
+					<attribute id="SkeletonResource" type="FixedString" value="7351cfd4-0979-a1dd-ba0b-b7f019337737" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -5831,18 +5831,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="8089f3a7-638b-1768-b6a4-43e1b0892e23" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.4DGB_M_NKD_Head_A_Tearline_Mesh.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.5DGB_M_NKD_Head_A_Eyeshadow_Mesh.4" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="9e9dcbc3-c93a-12ae-52c6-a21530f483e2" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.Horns.5" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_A.Horns.3" />
 						</node>
 					</children>
 				</node>
