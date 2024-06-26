@@ -28,14 +28,14 @@
 					<attribute id="ID" type="FixedString" value="b7fe8486-7418-4af9-8bd7-a0a7931f7e9f" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_HeadA_Base" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_HeadB_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadA_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadB_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadA_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Head/Dragovian_Head/Dragovian_M_HeadB_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
