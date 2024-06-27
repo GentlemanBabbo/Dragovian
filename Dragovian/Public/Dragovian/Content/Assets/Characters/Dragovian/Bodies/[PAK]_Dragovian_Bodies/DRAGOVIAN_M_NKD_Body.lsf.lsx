@@ -608,7 +608,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="ddf7d1fc-2767-4b4d-845a-d36a9692782c" />
+					<attribute id="ID" type="FixedString" value="a6eb7687-eec2-49e0-a9bd-3a56d60c6a76" />
 					<attribute id="Name" type="LSString" value="Dragovian_Base" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633012" />
@@ -1314,6 +1314,9 @@
 							<attribute id="PairElement1" type="guid" value="f9448523-02e4-4117-b437-b1761e39f487" />
 							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall"> DRAGOVIAN ANIMATION WATERFALLS
+							<attribute id="Object" type="FixedString" value="a6eb7687-eec2-49e0-a9bd-3a56d60c6a76" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="c5444852-1895-0e73-37c5-d0a4eb1c0219" />
