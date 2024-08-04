@@ -603,542 +603,18 @@
 			</children>
 		</node>
 	</region>
-<region id="AnimationSetBank">
-		<node id="AnimationSetBank">
-			<children>
-				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="a6eb7687-eec2-49e0-a9bd-3a56d60c6a76" />
-					<attribute id="Name" type="LSString" value="Dragovian_Base" />
-					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633012" />
-					<children>
-						<node id="AnimationSet">
-							<children>
-								<node id="AnimationBank">
-									<attribute id="ShortNameSetId" type="guid" value="00000000-0000-0000-0000-000000000000" />
-									<children>
-										<node id="AnimationSubSets">
-											<children>
-												<node id="Object">
-													<attribute id="FallBackSubSet" type="FixedString" value="" />
-													<attribute id="MapKey" type="FixedString" value="f6fa9d34-e804-4dd2-819b-5fbc9bcd8364" />
-													<children>
-														<node id="Animation">
-															<children>
-																<node id="Object"> Multiattack Loop
-																	<attribute id="ID" type="FixedString" value="52c33b71-3159-4c17-bfbe-bfa02ccea432" />
-																	<attribute id="MapKey" type="FixedString" value="caa0d92c-5cd1-4248-9a4a-f2a8e404dac3" />
-																</node>
-																<node id="Object"> Multiattack Dash
-																	<attribute id="ID" type="FixedString" value="dff2b40c-a651-4345-94c2-de9f083b34cc" />
-																	<attribute id="MapKey" type="FixedString" value="e6d40932-427f-4699-a0de-66f124d905b1" />
-																</node>
-																<node id="Object">
-																	<attribute id="AlwaysIgnore" type="bool" value="True" />
-																	<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-																	<attribute id="MapKey" type="FixedString" value="de98048e-bb06-4d6f-89d0-9f10b0ef8b69" />
-																</node>
-																<node id="Object"> Multiattack Recover
-																	<attribute id="ID" type="FixedString" value="43443d62-2793-430e-8e0d-322958d54ee3" />
-																	<attribute id="MapKey" type="FixedString" value="2b6afcc6-c9c1-4dc1-9904-88bebecb892f" />
-																</node>
-																<node id="Object"> Multiattack attack
-																	<attribute id="ID" type="FixedString" value="0be94294-4e30-4292-8335-6acc0662f7bb" />
-																	<attribute id="MapKey" type="FixedString" value="eeca2c0a-5f81-411e-aad8-b72362322900" />
-																</node>
-																<node id="Object">
-																	<attribute id="AlwaysIgnore" type="bool" value="True" />
-																	<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-																	<attribute id="MapKey" type="FixedString" value="b7a713aa-bc44-44e7-be65-01689599801a" />
-																</node>
-																<node id="Object"> Multiattack antic
-																	<attribute id="ID" type="FixedString" value="8e7f593b-b221-46d7-afcb-82ada023b64f" />
-																	<attribute id="MapKey" type="FixedString" value="ebd0529b-057e-491f-b124-acfed054728b" />
-																</node>
-																<node id="Object"> Multiattack prepare
-																	<attribute id="ID" type="FixedString" value="229acb79-faed-466a-bce4-0d81f5aa09e1" />
-																	<attribute id="MapKey" type="FixedString" value="6d444cbe-28c7-4f69-9409-9b4871851d9b" />
-																</node>
-															</children>
-														</node>
-													</children>
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-			</children>
-		</node>
-	</region>
-<region id="AnimationBank">
-		<node id="AnimationBank">
-			<children>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
-					<attribute id="AdditiveLoopingStart" type="float" value="0" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="0.20000002" />
-					<attribute id="ID" type="FixedString" value="229acb79-faed-466a-bce4-0d81f5aa09e1" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Prepare" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Prepare.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Prepare.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790665" />
-					<children>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_L" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.12353743" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
-					<attribute id="AdditiveLoopingStart" type="float" value="0" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="0.33333334" />
-					<attribute id="ID" type="FixedString" value="dff2b40c-a651-4345-94c2-de9f083b34cc" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Dash" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Dash.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Dash.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790669" />
-					<children>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="React" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="15" />
-							<attribute id="Time" type="float" value="0.23637189" />
-							<attribute id="Track" type="uint8" value="1" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_L" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.28843537" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="1.8333334" />
-					<attribute id="ID" type="FixedString" value="0be94294-4e30-4292-8335-6acc0662f7bb" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Attack" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Attack.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Attack.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
-					<children>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="CastSlash" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="0" />
-							<attribute id="Time" type="float" value="0" />
-							<attribute id="Track" type="uint8" value="1" />
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Vocal" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="13" />
-							<attribute id="Time" type="float" value="0" />
-							<attribute id="Track" type="uint8" value="0" />
-							<children>
-								<node id="Properties">
-									<attribute id="EVocalType" type="uint8" value="1" />
-									<attribute id="Resource" type="FixedString" value="" />
-									<attribute id="SoundObjectIndex" type="uint8" value="4" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_R" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.07111111" />
-							<attribute id="Track" type="uint8" value="3" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="1" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Cast" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="8" />
-							<attribute id="Time" type="float" value="0.10303855" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="React" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="15" />
-							<attribute id="Time" type="float" value="0.29750568" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_L" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.32217687" />
-							<attribute id="Track" type="uint8" value="4" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="CastSlash2" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="0" />
-							<attribute id="Time" type="float" value="0.4" />
-							<attribute id="Track" type="uint8" value="1" />
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Vocal" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="13" />
-							<attribute id="Time" type="float" value="0.43392292" />
-							<attribute id="Track" type="uint8" value="0" />
-							<children>
-								<node id="Properties">
-									<attribute id="EVocalType" type="uint8" value="1" />
-									<attribute id="Resource" type="FixedString" value="" />
-									<attribute id="SoundObjectIndex" type="uint8" value="4" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Cast2" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="8" />
-							<attribute id="Time" type="float" value="0.50068027" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_R" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.5297052" />
-							<attribute id="Track" type="uint8" value="3" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="1" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_L" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.6037188" />
-							<attribute id="Track" type="uint8" value="4" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="React" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="15" />
-							<attribute id="Time" type="float" value="1.0594106" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="CastSlash" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="0" />
-							<attribute id="Time" type="float" value="1.1595466" />
-							<attribute id="Track" type="uint8" value="1" />
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Vocal" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="13" />
-							<attribute id="Time" type="float" value="1.1769614" />
-							<attribute id="Track" type="uint8" value="0" />
-							<children>
-								<node id="Properties">
-									<attribute id="EVocalType" type="uint8" value="1" />
-									<attribute id="Resource" type="FixedString" value="" />
-									<attribute id="SoundObjectIndex" type="uint8" value="4" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_R" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="1.2088889" />
-							<attribute id="Track" type="uint8" value="3" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="1" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Cast3" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="8" />
-							<attribute id="Time" type="float" value="1.2582313" />
-							<attribute id="Track" type="uint8" value="2" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="Footstep_L" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="1.2829025" />
-							<attribute id="Track" type="uint8" value="4" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlayScuff" type="bool" value="False" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
-					<attribute id="AdditiveLoopingStart" type="float" value="0" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="0.40000004" />
-					<attribute id="ID" type="FixedString" value="8e7f593b-b221-46d7-afcb-82ada023b64f" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Antic" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Antic.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Antic.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790669" />
-					<children>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="React" />
-							<attribute id="Length" type="float" value="0.1" />
-							<attribute id="TextKeyType" type="uint8" value="15" />
-							<attribute id="Time" type="float" value="0.3030386" />
-							<attribute id="Track" type="uint8" value="1" />
-							<children>
-								<node id="Properties" />
-							</children>
-						</node>
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
-					<attribute id="AdditiveLoopingStart" type="float" value="0" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="1" />
-					<attribute id="ID" type="FixedString" value="52c33b71-3159-4c17-bfbe-bfa02ccea432" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Loop" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Loop.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Loop.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790665" />
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="1.5000001" />
-					<attribute id="ID" type="FixedString" value="43443d62-2793-430e-8e0d-322958d54ee3" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Recover" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Recover.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Animations/Dragovian_Animations/Babbo_Dragovian_Rig_DFLT_CMBT_Skill_Multiattack_01_Recover.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517632512" />
-					<children>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="FootStep_L" />
-							<attribute id="Length" type="float" value="1.0333333" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.46666667" />
-							<attribute id="Track" type="uint8" value="0" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="0" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-						<node id="Events">
-							<attribute id="ID" type="FixedString" value="FootStep_R" />
-							<attribute id="Length" type="float" value="0.6" />
-							<attribute id="TextKeyType" type="uint8" value="3" />
-							<attribute id="Time" type="float" value="0.9" />
-							<attribute id="Track" type="uint8" value="1" />
-							<children>
-								<node id="Properties">
-									<attribute id="FootID" type="uint8" value="1" />
-									<attribute id="PlayHearingFX" type="bool" value="True" />
-									<attribute id="PlaySlideFX" type="bool" value="False" />
-									<attribute id="PlaySound" type="bool" value="True" />
-									<attribute id="PlayStepFX" type="bool" value="True" />
-									<attribute id="Slide" type="bool" value="False" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-			</children>
-		</node>
-	</region>
-<region id="TextureBank">
+	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="895cbd8d-13dd-4deb-b310-fd7eec63b426" />
-					<attribute id="Name" type="LSString" value="DragovianBody_MSK" />
+					<attribute id="Name" type="LSString" value="DragovianBody_M_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_M_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DragovianBody_MSK" />
+					<attribute id="Template" type="FixedString" value="DragovianBody_M_MSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -1147,11 +623,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="4f3028aa-7bbb-4300-8b6e-2d8e8c01145a" />
-					<attribute id="Name" type="LSString" value="DragovianBody_BM" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_NKD_Body_A_DMSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_NKD_Body_A_DMSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DragovianBody_BM" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_NKD_Body_A_DMSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -1160,11 +636,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="93eda862-9b50-4aec-916d-5212bf312faf" />
-					<attribute id="Name" type="LSString" value="DragovianBody_CLEA" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_NKD_Body_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_NKD_Body_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DragovianBody_CLEA" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_NKD_Body_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -1173,11 +649,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="cbb2a9d4-2a68-47a6-8a6a-e1f2c3676d9d" />
-					<attribute id="Name" type="LSString" value="DragovianBody_NM" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_NKD_Body_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_NKD_Body_A_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DragovianBody_NM" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_NKD_Body_A_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -1186,11 +662,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="d6c90481-4921-42fc-b23b-caaf9f6ee7eb" />
-					<attribute id="Name" type="LSString" value="DragovianBody_HMVY" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_NKD_Body_A_CTLO" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/DragovianBody_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_NKD_Body_A_CTLO.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DragovianBody_HMVY" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_NKD_Body_A_CTLO" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -1314,9 +790,6 @@
 							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
-						<node id="AnimationWaterfall"> DRAGOVIAN ANIMATION WATERFALLS
-							<attribute id="Object" type="FixedString" value="a6eb7687-eec2-49e0-a9bd-3a56d60c6a76" />
-						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="c5444852-1895-0e73-37c5-d0a4eb1c0219" />
 						</node>
@@ -1343,71 +816,6 @@
 						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AttachBone" type="FixedString" value="" />
-					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
-					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.88820297 2.1831465 1.4044756" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.88814706 -0.0017273283 -0.2550759" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="3b85dceb-7eda-4073-a02c-8c562d2fdf74" />
-					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Proxy_Dragovian_M_FullBody" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="Unassigned" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Proxy_Dragovian_M_FullBody.GR2" />
-					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Proxy_Dragovian_M_FullBody.Dummy_Root.0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
-					<children>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="" />
-						</node>
-						<node id="Base" />
-						<node id="ClothProxyMapping" />
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.1DRAGON_Red_Head_A_Head_Mesh.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.2DGB_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.3DGB_M_NKD_Head_C_Eyes_Mesh.001.2" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.4Horns.001.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.5CAMBION_M_NKD_Wing_A.4" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.6DGB_M_NKD_Body_A_Mesh.5" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="Proxy_Dragovian_M_FullBody.7KOBOLD_Body_A_Mesh.001.6" />
-						</node>
 					</children>
 				</node>
 				<node id="Resource">
