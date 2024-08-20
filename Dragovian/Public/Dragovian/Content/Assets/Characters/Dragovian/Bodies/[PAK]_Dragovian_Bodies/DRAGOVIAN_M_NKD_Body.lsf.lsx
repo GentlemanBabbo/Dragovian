@@ -849,7 +849,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="2aad32a6-d51b-8024-7321-bafa16a5d3be" />
+							<attribute id="MaterialID" type="FixedString" value="7a5afaa4-7427-853d-c6b7-90454f383d0e" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_NKD_Body.Bodymesh.0" />
 						</node>
 					</children>
