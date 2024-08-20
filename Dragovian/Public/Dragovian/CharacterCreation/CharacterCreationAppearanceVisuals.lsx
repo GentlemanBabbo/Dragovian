@@ -18,6 +18,20 @@
 					<attribute id="VisualResource" type="guid" value="f418ecd2-4f73-487b-a6ed-ed3e516a5a53"/>
 				</node>
                     <!--Head Parts A-->
+
+				<node id="CharacterCreationAppearanceVisual"> Dragovian - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			        <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="5434f77a-19a6-4415-bdef-837a54442b93"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="c22d642e-ece3-45d5-a488-03ebdd5879e9"/>
+				</node>
+                    <!--Head Parts B-->
+
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - C
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -30,6 +44,7 @@
 					<attribute id="VisualResource" type="guid" value="f863b45a-655f-4de2-8cca-f85e1df7ba50"/>
 				</node>
                     <!--Head Parts C-->
+
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - E
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -41,7 +56,7 @@
 					<attribute id="UUID" type="guid" value="cf47f566-37a1-49e1-a4c3-713c01898909"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="c2eda91f-0543-4664-a0d5-51374cf53e87"/>
 				</node>				
-                    <!--Head Part E-->
+                    <!--Head Parts E-->
                         <node id="CharacterCreationAppearanceVisual">
                             <attribute id="BodyShape" type="uint8" value="0"/>
                             <attribute id="BodyType" type="uint8" value="0"/>
@@ -52,6 +67,7 @@
                             <attribute id="UUID" type="guid" value="e565deb6-b5eb-44da-98dd-6745eced916f"/>
                             <attribute id="VisualResource" type="guid" value="22bc7fff-9e4b-4231-883d-d1c589c255dd"/>
                         </node>
+
 		<!--Female Dragovian Heads-->
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - A
@@ -65,7 +81,7 @@
 					<attribute id="UUID" type="guid" value="19eebeb8-e2ab-4058-9fec-ce39ec9233dc"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b"/>
 				</node>
-
+                    <!--Head Parts A-->
 		<!--Wings-->
 
 	        	 <node id="CharacterCreationAppearanceVisual">
