@@ -17,6 +17,7 @@
 					<attribute id="UUID" type="guid" value="0a496975-9159-4bb3-b95b-16578e0eb66f"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="f418ecd2-4f73-487b-a6ed-ed3e516a5a53"/>
 				</node>
+                    <!--Head Parts A-->
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - C
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -28,6 +29,7 @@
 					<attribute id="UUID" type="guid" value="1158732a-82b2-49b1-b17d-161418b5148c"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="f863b45a-655f-4de2-8cca-f85e1df7ba50"/>
 				</node>
+                    <!--Head Parts C-->
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - E
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -39,6 +41,17 @@
 					<attribute id="UUID" type="guid" value="cf47f566-37a1-49e1-a4c3-713c01898909"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="c2eda91f-0543-4664-a0d5-51374cf53e87"/>
 				</node>				
+                    <!--Head Part E-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="cf47f566-37a1-49e1-a4c3-713c01898909"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="e565deb6-b5eb-44da-98dd-6745eced916f"/>
+                            <attribute id="VisualResource" type="guid" value="22bc7fff-9e4b-4231-883d-d1c589c255dd"/>
+                        </node>
 		<!--Female Dragovian Heads-->
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - A
