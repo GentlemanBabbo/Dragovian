@@ -12,9 +12,9 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
           <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
           <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
-          <attribute id="RootTemplate" type="guid" value="09159dc2-11f0-42da-b642-cfddfc4a0238"/>
+          <attribute id="RootTemplate" type="guid" value="e74e1b91-82f7-4695-a384-b67989fdbb07"/>
 					<attribute id="SubRaceUUID" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8"/>
-          <attribute id="UUID" type="guid" value="773129fa-b905-49e4-8dcf-a3f87d8333bd"/>
+          <attribute id="UUID" type="guid" value="f8cd468f-f1b9-4aa0-97e7-24e3dddc4438"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
 				<node id="CharacterCreationPreset">
