@@ -21,7 +21,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
                     <attribute id="UUID" type="guid" value="e85abfdc-4beb-4c82-88b7-36f83065887a"/> the UUID, needs to be unique
                 </node>
             </children>
