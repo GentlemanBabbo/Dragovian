@@ -21,7 +21,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="f3381f27-3a53-979c-b7a7-013dee5de138" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -88,7 +88,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="f3381f27-3a53-979c-b7a7-013dee5de138" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -109,7 +109,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="c2eda91f-0543-4664-a0d5-51374cf53e87" />
+							<attribute id="VisualResource" type="FixedString" value="f418ecd2-4f73-487b-a6ed-ed3e516a5a53" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -124,7 +124,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="22bc7fff-9e4b-4231-883d-d1c589c255dd" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -155,7 +155,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="6e7b372b-dfe4-b1b8-ddd5-fbf3e49bc871" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -222,7 +222,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="6e7b372b-dfe4-b1b8-ddd5-fbf3e49bc871" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -243,7 +243,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="c2eda91f-0543-4664-a0d5-51374cf53e87" />
+							<attribute id="VisualResource" type="FixedString" value="c22d642e-ece3-45d5-a488-03ebdd5879e9" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -258,7 +258,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="22bc7fff-9e4b-4231-883d-d1c589c255dd" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -289,7 +289,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0143d2ff-863f-01c5-d8e6-b8c7a1733715" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -356,7 +356,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0143d2ff-863f-01c5-d8e6-b8c7a1733715" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -423,7 +423,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="7c7abf66-250b-ffd6-6fbf-597fb546005d" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -490,7 +490,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="676535e1-be81-4b96-9bee-e425d81ad567" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="7c7abf66-250b-ffd6-6fbf-597fb546005d" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -526,7 +526,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="22bc7fff-9e4b-4231-883d-d1c589c255dd" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
