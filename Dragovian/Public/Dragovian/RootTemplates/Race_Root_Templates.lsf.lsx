@@ -114,6 +114,216 @@
 						<node id="LocomotionParams" />
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6a72759e-e39c-4883-aecb-30550a61d287" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Female_Leviathan_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4073a845-4d25-48f9-8416-7d7e5bc05c5e" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="69ac699a-3974-428a-bb54-a7d0633127fb" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="21f7bae2-e08d-49f4-b8a9-b0cb17165d90" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Male_Leviathan_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="17b5c612-c067-4400-a9fc-dae6992a27c3" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="90b6172c-6f07-426b-9c50-7e325f048e89" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2cd423cf-069b-419d-b304-73b4d1201d22" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Female_Kovgam_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4073a845-4d25-48f9-8416-7d7e5bc05c5e" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="6fad7020-7684-4925-976b-2e9903638c80" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9aae76d8-11f2-464d-b8b5-47524ab1b351" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Male_Kovgam_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="17b5c612-c067-4400-a9fc-dae6992a27c3" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="fcc949cf-5dbb-46f2-8914-814079984d86" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="85fa545e-ece3-4318-aab1-69630c0bf54a" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Female_Nurnelith_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4073a845-4d25-48f9-8416-7d7e5bc05c5e" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="6dd2cb48-0ce7-4159-98f7-82ddfd0d9599" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="73342fc2-55fa-46a9-88db-772d324e9192" /> must be unique
+					<attribute id="Name" type="LSString" value="Dragovian_Male_Nurnelith_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="17b5c612-c067-4400-a9fc-dae6992a27c3" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f0eb622d-dc18-4057-861c-57c94c1133b7" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="b4b5f643-34f1-48c7-ab0f-ce4cde6532b8" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
