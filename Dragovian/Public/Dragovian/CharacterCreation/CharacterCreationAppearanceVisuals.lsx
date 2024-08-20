@@ -34,16 +34,24 @@
 
 		<!--Wings-->
 
-		 <node id="CharacterCreationAppearanceVisual">
+	        	 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
-                    					<attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
                     <attribute id="SlotName" type="FixedString" value="Wings"/>
                     <attribute id="UUID" type="guid" value="5936e944-cae4-437a-948e-bef7db7602a9"/>
                     <attribute id="VisualResource" type="guid" value="3c7a52c3-e5de-4d51-a812-58542255659c"/>
                 </node>
-
+	        	 <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                    <attribute id="SlotName" type="FixedString" value="Wings"/>
+                    <attribute id="UUID" type="guid" value="4f02bbc8-40f3-403c-aa73-b926b6d76c9d"/>
+                    <attribute id="VisualResource" type="guid" value="e067639b-7f74-4bc8-90e3-eaa16e4cab0a"/>
+                </node>
 	            
 		<!--Tails-->
 
