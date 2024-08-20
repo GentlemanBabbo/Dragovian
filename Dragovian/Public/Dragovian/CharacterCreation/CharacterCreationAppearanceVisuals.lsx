@@ -18,6 +18,16 @@
 					<attribute id="VisualResource" type="guid" value="f418ecd2-4f73-487b-a6ed-ed3e516a5a53"/>
 				</node>
                     <!--Head Parts A-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="0a496975-9159-4bb3-b95b-16578e0eb66f"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="73d2c050-d68f-4d19-b932-be7bc3083677"/>
+                            <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                        </node>
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - B
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
@@ -31,6 +41,16 @@
 					<attribute id="VisualResource" type="guid" value="c22d642e-ece3-45d5-a488-03ebdd5879e9"/>
 				</node>
                     <!--Head Parts B-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="5434f77a-19a6-4415-bdef-837a54442b93"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="af14fe53-4549-4681-bb00-12863733f2a1"/>
+                            <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                        </node>
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - C
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
@@ -44,6 +64,16 @@
 					<attribute id="VisualResource" type="guid" value="f863b45a-655f-4de2-8cca-f85e1df7ba50"/>
 				</node>
                     <!--Head Parts C-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="1158732a-82b2-49b1-b17d-161418b5148c"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="2ff06589-3f12-4288-a353-7f0c26c6dd89"/>
+                            <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                        </node>
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - E
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
@@ -57,6 +87,16 @@
 					<attribute id="VisualResource" type="guid" value="c2eda91f-0543-4664-a0d5-51374cf53e87"/>
 				</node>				
                     <!--Head Parts E-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="cf47f566-37a1-49e1-a4c3-713c01898909"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="f6ff3c3e-be1e-42bd-baa6-79ac829e18b3"/>
+                            <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                        </node>
                         <node id="CharacterCreationAppearanceVisual">
                             <attribute id="BodyShape" type="uint8" value="0"/>
                             <attribute id="BodyType" type="uint8" value="0"/>
@@ -82,6 +122,16 @@
 					<attribute id="VisualResource" type="guid" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b"/>
 				</node>
                     <!--Head Parts A-->
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="19eebeb8-e2ab-4058-9fec-ce39ec9233dc"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="dab2c4ff-61d9-4dc3-8631-3b2b75085e31"/>
+                            <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                        </node>
 		<!--Wings-->
 
 	        	 <node id="CharacterCreationAppearanceVisual">
