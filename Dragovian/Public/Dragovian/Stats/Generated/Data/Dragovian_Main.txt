@@ -1,12 +1,6 @@
 <!--------------------- Dragovian Passives --------------------->
 
-new entry "Dragovian_Base_Passives"
-type "PassiveData"
-data "DisplayName" "h18f631efgdfeeg4683gac99g72a7dff7e657"
-data "Description" "hb1c0e0d5g1cbag401agb788gc5a4fa133bac"
-data "Icon" "PassiveFeature_Darkvision"
-data "Properties" "Highlighted"
-data "Boosts" "ActionResource(Movement,10.5,0)"
+
 
 <!--Elemental Resistance-->
 

@@ -15,10 +15,6 @@
             <attribute id="UUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> Race UUID, keep this for adding hairs etc
                 <children>
                     <!--Race Tags-->
-                        <!--Beastial-->
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="92aae5aa-4595-4f1c-96d2-9e2499d35c6f"/>
-                        </node>
                         <!--Rare-->
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="d2f86ec3-c41f-47e1-8acd-984872a4d7d5"/>
