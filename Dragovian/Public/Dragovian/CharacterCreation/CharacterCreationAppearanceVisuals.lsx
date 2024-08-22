@@ -74,6 +74,16 @@
                             <attribute id="UUID" type="guid" value="2ff06589-3f12-4288-a353-7f0c26c6dd89"/>
                             <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                         </node>
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="1158732a-82b2-49b1-b17d-161418b5148c"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="f1b77d8f-0a24-461e-b5f5-1125a7f17fbd"/>
+                            <attribute id="VisualResource" type="guid" value="d5a3e1fb-c3c8-2fe5-d9cf-8d76ba877225"/>
+                        </node>
 
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - D
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
