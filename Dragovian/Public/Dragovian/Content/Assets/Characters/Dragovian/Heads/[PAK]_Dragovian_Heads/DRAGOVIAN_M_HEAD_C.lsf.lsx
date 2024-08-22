@@ -4223,7 +4223,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="d5a3e1fb-c3c8-2fe5-d9cf-8d76ba877225" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Dragovian_M_Head_C_Top_CA" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
