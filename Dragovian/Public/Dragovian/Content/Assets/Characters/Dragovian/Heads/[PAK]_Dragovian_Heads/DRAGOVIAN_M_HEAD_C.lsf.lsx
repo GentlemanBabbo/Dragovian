@@ -4250,7 +4250,7 @@
 							</node>
 							<node id="Objects">
 								<attribute id="LOD" type="uint8" value="0" />
-								<attribute id="MaterialID" type="FixedString" value="163a1660-8858-4c97-a556-fc311c5b78e1" />
+								<attribute id="MaterialID" type="FixedString" value="495a5233-e8ec-8287-4bee-417c53148e4f" />
 								<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_C_Top_CA.ORTHON_Horns_A_Mesh.1" />
 							</node>
 				</children>
