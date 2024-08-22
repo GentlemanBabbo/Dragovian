@@ -10989,6 +10989,12 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="cf3c2491-2376-ca6d-b84e-8c23addae868" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fd21a278-08ab-7ab1-6310-5a99f64e0050" />
+						</node>
+						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="3079f83c-476a-1a23-db66-50fc50524619" />
 						</node>
 						<node id="Base" />
