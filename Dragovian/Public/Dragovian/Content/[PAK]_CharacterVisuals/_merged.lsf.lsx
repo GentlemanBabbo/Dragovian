@@ -124,7 +124,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="VisualResource" type="FixedString" value="d5a3e1fb-c3c8-2fe5-d9cf-8d76ba877225" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
