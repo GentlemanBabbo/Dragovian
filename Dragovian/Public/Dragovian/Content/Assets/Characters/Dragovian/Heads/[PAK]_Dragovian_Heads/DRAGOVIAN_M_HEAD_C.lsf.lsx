@@ -4155,8 +4155,8 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
-					<attribute id="BoundsMax" type="fvec3" value="0.12594284 2.118715 0.118370034" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.12594284 1.7838151 -0.22265834" />
+					<attribute id="BoundsMax" type="fvec3" value="0.12594287 2.1174514 0.11836943" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.12595102 1.7838151 -0.25683606" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -4166,7 +4166,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="526fd867-4dea-f50a-5e8c-102202f96b89" />
+					<attribute id="SkeletonResource" type="FixedString" value="bd60097a-30c7-39db-83ba-808e25eb8aa2" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -4181,7 +4181,7 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="cf3c2491-2376-ca6d-b84e-8c23addae868" />
+							<attribute id="Object" type="FixedString" value="6eafa413-1fb8-6343-f4bf-c77e23833375" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="fd21a278-08ab-7ab1-6310-5a99f64e0050" />
@@ -4193,27 +4193,27 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b64099eb-45fe-a297-ad2c-df3edf9c7169" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_C.DGB_M_NKD_Head_C_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_G.DGB_M_NKD_Head_G_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="d5163cc5-e34b-f777-1bdd-a4dc9fb16da6" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_C.DGB_M_NKD_Head_C_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_G.DGB_M_NKD_Head_G_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_C.DGB_M_NKD_Head_C_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_G.DGB_M_NKD_Head_G_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_C.DGB_M_NKD_Head_C_Tearline_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_G.DGB_M_NKD_Head_G_Tearline_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_C.DGB_M_NKD_Head_C_Eyeshadow_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Head_G.DGB_M_NKD_Head_G_Eyeshadow_Mesh.4" />
 						</node>
 					</children>
 				</node>

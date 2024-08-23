@@ -10964,7 +10964,7 @@
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
 					<attribute id="BoundsMax" type="fvec3" value="0.12594284 2.118715 0.118370034" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.12594284 1.7838151 -0.22501613" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.12594284 1.7838151 -0.2550759" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -10974,7 +10974,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="025ac1d2-72e7-9186-2ccc-5397948d815a" />
+					<attribute id="SkeletonResource" type="FixedString" value="d491a6f6-d880-6eed-bd81-cf73e6106b60" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />

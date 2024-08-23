@@ -109,7 +109,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="f863b45a-655f-4de2-8cca-f85e1df7ba50" />
+							<attribute id="VisualResource" type="FixedString" value="5c14b15b-ba18-48c9-8005-b0ae27c80a49" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -120,11 +120,6 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
 							<attribute id="VisualResource" type="FixedString" value="3c7a52c3-e5de-4d51-a812-58542255659c" />
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="d5a3e1fb-c3c8-2fe5-d9cf-8d76ba877225" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />

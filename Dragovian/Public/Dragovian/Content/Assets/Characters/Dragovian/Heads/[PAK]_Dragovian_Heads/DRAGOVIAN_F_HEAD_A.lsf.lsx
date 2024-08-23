@@ -11285,9 +11285,6 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="a314302b-4acb-8dff-319c-22acae198976" />
-						</node>
-						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="fd21a278-08ab-7ab1-6310-5a99f64e0050" />
 						</node>
 						<node id="AnimationWaterfall">
@@ -11298,27 +11295,27 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45941756-5aae-bd2e-b157-4695ccaaf8cc" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_A.DGB_F_NKD_Head_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_D.DGB_F_NKD_Head_D_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="d5163cc5-e34b-f777-1bdd-a4dc9fb16da6" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_A.DGB_F_NKD_Head_A_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_D.DGB_F_NKD_Head_D_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_A.DGB_F_NKD_Head_A_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_D.DGB_F_NKD_Head_D_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_A.DGB_F_NKD_Head_A_Tearline_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_D.DGB_F_NKD_Head_D_Tearline_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_A.DGB_F_NKD_Head_A_Eyeshadow_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Head_D.DGB_F_NKD_Head_D_Eyeshadow_Mesh.4" />
 						</node>
 					</children>
 				</node>
