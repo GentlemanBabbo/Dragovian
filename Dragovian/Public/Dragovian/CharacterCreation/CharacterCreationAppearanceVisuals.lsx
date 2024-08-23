@@ -107,6 +107,16 @@
                             <attribute id="UUID" type="guid" value="8b4adecc-6df0-473a-8740-dbbc2b180bca"/>
                             <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                         </node>
+                        <node id="CharacterCreationAppearanceVisual">
+                            <attribute id="BodyShape" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                            <attribute id="HeadAppearanceUUID" type="guid" value="282854e5-b37e-48b6-961e-26717f322c23"/>
+                            <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
+                            <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                            <attribute id="UUID" type="guid" value="40b7d582-9c1b-44db-b72e-35da8ad38637"/>
+                            <attribute id="VisualResource" type="guid" value="5fb78e27-a76f-45b2-bb7d-d7aa28f3de6f"/>
+                        </node>
 				<node id="CharacterCreationAppearanceVisual"> Dragovian - E
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
