@@ -4166,7 +4166,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="7351cfd4-0979-a1dd-ba0b-b7f019337737" />
+					<attribute id="SkeletonResource" type="FixedString" value="526fd867-4dea-f50a-5e8c-102202f96b89" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -4181,7 +4181,10 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="3690b35e-6676-2c6e-c7a1-09cdb4b628e0" />
+							<attribute id="Object" type="FixedString" value="cf3c2491-2376-ca6d-b84e-8c23addae868" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fd21a278-08ab-7ab1-6310-5a99f64e0050" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="3079f83c-476a-1a23-db66-50fc50524619" />
