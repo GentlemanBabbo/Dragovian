@@ -72,7 +72,7 @@
                   <attribute id="Selectors" type="LSString" value="SelectSpells(91293f6c-8c7e-4290-82f4-295379a63c43,1,0,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="7059b2db-a12c-4c3e-b077-ea726493c650" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                  <attribute id="UUID" type="guid" value="cff3b0b4-f925-4e7d-9658-80b69d9cfd2c" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="3b86f61f-d3e9-4c92-8a92-ffe183777789" />  this one must be unique
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
