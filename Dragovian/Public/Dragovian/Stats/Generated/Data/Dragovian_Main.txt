@@ -244,9 +244,9 @@ data "SpellAnimation" "ce0aa392-7d13-45a2-8a59-e6786830265d,,;,,;bd10df60-20c2-4
 data "SpellFlags" "CanAreaDamageEvade"
 data "HitAnimationType" "MagicalDamage_External"
 data "MemoryCost" "1"
-data "PrepareEffect" "fdbf8e88-c3a5-4151-a81d-429985de422c"
-data "CastEffect" "69aaec35-fb5f-489e-a4cc-47310f4377e9"
-data "HitEffect" "41de42e1-56d0-4336-8b44-99fc38281525"
+data "PrepareEffect" "a6389f1d-b548-41f0-b236-62172c1dab04"
+data "CastEffect" "855a50f5-6ef5-4a32-a8e1-a83273176c9a"
+data "TargetEffect" "53412dd1-8066-4860-a2ae-b27e77bfdab5"
 data "DamageType" "Fire"
 
 new entry "Projectile_BreathWeapon_Cold_Dragovian"
