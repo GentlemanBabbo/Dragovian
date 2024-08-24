@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Dragovian_Resistance_Acid,Dragovian_Resistance_Cold,Dragovian_Resistance_Fire,Dragovian_Resistance_Lightning,Dragovian_Resistance_Poison"/> the passive list
-                    <attribute id="UUID" type="guid" value="e0e9c34b-2ffe-46f5-992d-0b65863a356a"/> the UUID, needs to be unique
+                    <attribute id="Passives" type="LSString" value="Passive_NonCombatFlight,Passive_AllModesFlight"/> the passive list
+                    <attribute id="UUID" type="guid" value="a8e05dcb-2a16-46b8-bb89-3d517592c51f"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>

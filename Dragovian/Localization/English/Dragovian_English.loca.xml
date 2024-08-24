@@ -10,22 +10,24 @@
 	<content contentuid="ha50a4cbd90774c2bb0b3f5413122be81g491" version="1">"Burn bright in the maker's fire." An ancient creed of the reforged dragovians; these words call to the iron engraved into their scales, vibrating with the magic of Dwemer smithwork. For the Kovgam, life is only as valuable as path forged ahead; the metal in their flesh a reminder that action is the law that governs the planes of existance.</content>
 	<content contentuid="hb1215fab8c574b64a3d457e220293c935cb6" version="1">Nurnelith</content>
 	<content contentuid="he68ea06d38aa4b549118fbc08f826c4a8g89" version="1">Not all dragovians were pleased with their lot in life after Tiamat cursed their kin. Some turned to death and saw an embrace; a mighty necrosis seeping into their scales and gripping their flesh. Possessed by this otherworldly madness, the Nurnelith seek the whispers from the void in a never ending bid for release from their mortal coil.</content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h65825a85df924613a044ada11d4470dc2f4b" version="1">Vulcan Breath</content>
+	<content contentuid="hb8328ddba2a34910af79d1ac6931c5c67598" version="1">Ignite your foes with a flaming projectile from your gaping maw. Explodes on contact.</content>
+	<content contentuid="h556eb324d7e44e518680783593f813102681" version="1">Sub-Zero Breath</content>
+	<content contentuid="h4ed052f0b67d492993f412a322ba16ecbee5" version="1">Freeze your foes with a frosty projectile from your gaping maw. Explodes on contact.</content>
+	<content contentuid="h8d4ab1eefad6481c8b0b167854182bbb0a53" version="1">Crackling Breath</content>
+	<content contentuid="hb6bce630db5c4149ae00ed9a6f0fc47c9a17" version="1">Electrocute your foes with a high voltage projectile from your gaping maw. Explodes on contact.</content>
+	<content contentuid="ha8f225acdee94517a1823686f466b8cddc45" version="1">Poisonous Breath</content>
+	<content contentuid="h3538b8fe772b47f19b668c2441b4f9860g65" version="1">Corrupt your foe's blood with a noxious projectile from your gaping maw. Explodes on contact.</content>
+	<content contentuid="h3c3c43f32c7444798c344fff2c90f001a1e9" version="1">Stray the Skies</content>
+	<content contentuid="h7fd8747e75bb467ea0e6f2c6096f6ea754cg" version="1">Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile_Noncombat_Fly"&gt;Peaceful Flight&lt;/LSTag&gt;.</content>	
+	<content contentuid="he1c69889ddea46a5ab56658e2f85ac9ce658" version="1">Peaceful Flight</content>
+	<content contentuid="ha6c565edd14345b0b4182d84cf8f5ccd8286" version="1">Engage the skies gracefully with your wings. Only available out of combat.</content>
+	<content contentuid="h212dbbe3390b488f809f9d338f484e8078ba" version="1">Command the Skies</content>
+	<content contentuid="hae663084fef9485b8e319d1748eafe9862ba" version="1">Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile__Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+	<content contentuid="h32eab69d73d940c2a1404f1b304380bacef6" version="1">Dragovian Cunning</content>
+	<content contentuid="h5c404963575644ebbecf2f28e57007650b2e" version="1">Your blood calls for deeper understanding of the world around you. Gain Advantage on Wisdom and Intelligence rolls.</content>
+	<content contentuid="hf5a3f1ec4fef401dbb25d85edee5f1ac64fa" version="1">Nautical Advantage</content>
+	<content contentuid="h6e10722974f74c83b3d22bfb00490cc2c97f" version="1">When submerged in water, gain Advantage on Attack Rolls.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
