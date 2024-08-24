@@ -98,8 +98,8 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Leviathan" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(e85abfdc-4beb-4c82-88b7-36f83065887a,,,,AlwaysPrepared)" /> you can add spells here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_NauticalAdvantage" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="9d653224-440d-4214-8f07-a7e155d7d4fb" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="1fb87a75-520a-4576-8d81-e5474b168f13" />  this one must be unique
@@ -108,8 +108,8 @@
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Leviathan" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_NauticalAdvantage" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(e85abfdc-4beb-4c82-88b7-36f83065887a,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="9d653224-440d-4214-8f07-a7e155d7d4fb" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="37730de1-18bf-4210-a1ea-a13f492276e7" />  this one must be unique
