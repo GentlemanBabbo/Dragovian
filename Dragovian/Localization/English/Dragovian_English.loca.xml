@@ -28,26 +28,26 @@
 	<content contentuid="h5c404963575644ebbecf2f28e57007650b2e" version="1">Your blood calls for deeper understanding of the world around you. Gain Advantage on Wisdom and Intelligence rolls.</content>
 	<content contentuid="hf5a3f1ec4fef401dbb25d85edee5f1ac64fa" version="1">Nautical Advantage</content>
 	<content contentuid="h6e10722974f74c83b3d22bfb00490cc2c97f" version="1">When submerged in water, gain Advantage on Attack Rolls.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hd61cfaa8c6b74271854ae09481612fa7ca14" version="1">Re-Forged Skin</content>
+	<content contentuid="hc943beb39aab47fb99c476138722ec290ef6" version="1">Clad in Dwemer Iron across your skin, your AC is set to 10 and is boosted by your Strength and Constitution modifiers. Must not be wearing Armor or a Shield.</content>
+	<content contentuid="hc4b14f8d18dc422dbd3c8d122def522a4aa2" version="1">Tempered Skin</content>
+	<content contentuid="hc433ddb9a1694f93975d4a2b933fb6099339" version="1">Constant reinforcement of your stitching has made you more durable. Increase armor class by 1.</content>
+	<content contentuid="h6ff4e5400f134a18966c063a2532dd65f041" version="1">Unbreakable Exoskeleton</content>
+	<content contentuid="h247c3ccffc3f41fc8ea911255779be33g9d3" version="1">Harness the Dwemer enchantment in your iron skin; your armor class increases by 3.</content>
+	<content contentuid="h7b5c7fe9b1f5413ea2ad7535b8e4ff7194db" version="1">Unbreakable</content>
+	<content contentuid="h3c0d9589633545e19c19870e9db6bc364c11" version="1">Armor class has been increased by 3.</content>
+	<content contentuid="hb68a75f6227540819069c0dee4ec92cf6ggc" version="1">Festering Breath</content>
+	<content contentuid="he8f696204c4349c6b04524d75f34b00acgf6" version="1">Necrotic energies spill from your gaping maw. Explodes on contact.</content>
+	<content contentuid="hdbeea1d4466544be93f78ee1be7b734e440d" version="1">Captivating Necrosis</content>
+	<content contentuid="h6965750bb2564d78a3bbc594832a7a206ffb" version="1">You have learned to weave your wicked charm into your breath attack. Increase the damage of &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; by your Charisma modifier.</content>
+	<content contentuid="hb40b8881eb9047bc9ebf80811822e33ff93f" version="1">Enthralling Necrosis</content>
+	<content contentuid="h14c8cbb2b0f44fa2a07a0f77c7ed857eb436" version="1">You have learned to weave your warped thoughts into your breath attack. Increase the damage of &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; by your Intelligence modifier.</content>
+	<content contentuid="h22de6862654443b6aabe4c09c4e9e3a113bd" version="1">Wisened Necrosis</content>
+	<content contentuid="h89bb5bed7613488083401bf3e3589e556ee4" version="1">You have learned to weave your cursed morals into your breath attack. Increase the damage of &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; by your Wisdom modifier.</content>
+	<content contentuid="hbd4491edd3b34d61826c45f35c8c91c48g6b" version="1">Obliteration</content>
+	<content contentuid="hef99f081a46e4383b129dd902650460b452f" version="1">Should &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; critically strike, foes will be &lt;LSTag Type="Spell" Tooltip="Projectile_NecroShove"&gt;forceably shoved&lt;/LSTag&gt; by the resulting blast.</content>
+	<content contentuid="ha07813a6ae7543bb9ea64cdbb15e94d72e47" version="1">Necro-Shove</content>
+	<content contentuid="h7963dadbff5b47e78ad3efe2d677a628942c" version="1">Shove all targets back from the resulting blast.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

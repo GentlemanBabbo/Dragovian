@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="Passive_NonCombatFlight,Passive_AllModesFlight"/> the passive list
                     <attribute id="UUID" type="guid" value="a8e05dcb-2a16-46b8-bb89-3d517592c51f"/> the UUID, needs to be unique
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_Charisma_NecroBreath,Passive_Intelligence_NecroBreath,Passive_Wisdom_NecroBreath"/> the passive list
+                    <attribute id="UUID" type="guid" value="ac3e08d1-545e-4453-a84c-513add5074bb"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>

@@ -30,14 +30,14 @@
                     <attribute id="UUID" type="guid" value="f473d083-8c86-470f-a89f-c73023abd091"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
-                    <attribute id="UUID" type="guid" value=""/> the UUID, needs to be unique
+                    <attribute id="Comment" type="LSString" value="Kovgam"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Kovgam"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="e17b26c7-a2dc-4778-b272-064a9109e3b1"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
-                    <attribute id="UUID" type="guid" value=""/> the UUID, needs to be unique
+                    <attribute id="Comment" type="LSString" value="Nurnelith"/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_BreathWeapon_Necrotic_Dragovian"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="3469e81a-f7dc-4bf9-91b9-3df687f04754"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
