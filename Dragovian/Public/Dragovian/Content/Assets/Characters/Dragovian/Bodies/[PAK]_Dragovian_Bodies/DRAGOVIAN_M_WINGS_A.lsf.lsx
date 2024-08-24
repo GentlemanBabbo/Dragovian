@@ -4079,7 +4079,22 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="9367d6c1-3b5a-1736-bf28-3d1543b3cae1" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings.CAMBION_M_NKD_Wing_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings_A.CAMBION_M_NKD_Wing_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="9367d6c1-3b5a-1736-bf28-3d1543b3cae1" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings_A.CAMBION_M_NKD_Wing_A_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="9367d6c1-3b5a-1736-bf28-3d1543b3cae1" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings_A.CAMBION_M_NKD_Wing_A_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="9367d6c1-3b5a-1736-bf28-3d1543b3cae1" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings_A.CAMBION_M_NKD_Wing_A_LOD3.3" />
 						</node>
 					</children>
 				</node>
