@@ -24,6 +24,38 @@ data "Boosts" "ProficiencyBonus(Skill,History);ExpertiseBonus(History)"
 
 <!--Dovahsil-->
 
+new entry "Passive_Dovahsil_FireBreath"
+type "PassiveData"
+data "DisplayName" "h1b9d4d961155438ea8830d84469ff4ae5977;3"
+data "Description" "h12e72176a4724207842a0a737c41ccda2d29;3"
+data "Icon" "Action_Dragonborn_BreathWeapon_FireCone"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Projectile_BreathWeapon_Fire_Dragovian)"
+
+new entry "Passive_Dovahsil_FrostBreath"
+type "PassiveData"
+data "DisplayName" "h7b9046bcb7de46b6ac0fc88f9bd518e757gg;3"
+data "Description" "h10153ad707944c9e8ed023063ed81860c40a;3"
+data "Icon" "Action_Dragonborn_BreathWeapon_Cold"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Projectile_BreathWeapon_Cold_Dragovian)"
+
+new entry "Passive_Dovahsil_LightningBreath"
+type "PassiveData"
+data "DisplayName" "h35f26738d65a42908c611c042d0355b9dac3;3"
+data "Description" "haac9e5f49a3d4b7da6a3c215846e8ebc79de;3"
+data "Icon" "Action_Dragonborn_BreathWeapon_Lightning"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Projectile_BreathWeapon_Lightning_Dragovian)"
+
+new entry "Passive_Dovahsil_PoisonBreath"
+type "PassiveData"
+data "DisplayName" "h61a871728b334e89afbbfa1d3c75fd2ae2f3;3"
+data "Description" "h06c5cee0eb3441cba84ca335e1aac9f3af61;3"
+data "Icon" "Action_Dragonborn_BreathWeapon_Poison"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Projectile_BreathWeapon_Poison_Dragovian)"
+
 new entry "Passive_Dragovian_Cunning"
 type "PassiveData"
 data "DisplayName" "h32eab69d73d940c2a1404f1b304380bacef6;3"
@@ -44,14 +76,6 @@ data "StatsFunctorContext" "OnStatusApplied;OnStatusRemoved"
 data "StatsFunctors" "IF(HasStatus('WET')):Advantage(AttackRoll)"
 
 <!--Kovgam-->
-
-new entry "Passive_Dragovian_MartialProdigy"
-type "PassiveData"
-data "DisplayName" "h65148781ga78eg4045ga130gb0052296002c;1"
-data "Description" "he7637ae2g33c2g497bga250g042f485480ed;1"
-data "Icon" "PassiveFeature_Elf_WeaponTraining"
-data "Properties" "Highlighted;ForceShowInCC"
-data "Boosts" "Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords)"
 
 new entry "Passive_ReforgedSkin"
 type "PassiveData"

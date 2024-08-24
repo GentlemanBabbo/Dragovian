@@ -10,6 +10,16 @@
 	<content contentuid="ha50a4cbd90774c2bb0b3f5413122be81g491" version="1">"Burn bright in the maker's fire." An ancient creed of the reforged dragovians; these words call to the iron engraved into their scales, vibrating with the magic of Dwemer smithwork. For the Kovgam, life is only as valuable as path forged ahead; the metal in their flesh a reminder that action is the law that governs the planes of existance.</content>
 	<content contentuid="hb1215fab8c574b64a3d457e220293c935cb6" version="1">Nurnelith</content>
 	<content contentuid="he68ea06d38aa4b549118fbc08f826c4a8g89" version="1">Not all dragovians were pleased with their lot in life after Tiamat cursed their kin. Some turned to death and saw an embrace; a mighty necrosis seeping into their scales and gripping their flesh. Possessed by this otherworldly madness, the Nurnelith seek the whispers from the void in a never ending bid for release from their mortal coil.</content>	
+	<content contentuid="h1b9d4d961155438ea8830d84469ff4ae5977" version="1">Dovahsil: Vulcan Breath</content>
+	<content contentuid="h12e72176a4724207842a0a737c41ccda2d29" version="1">Unlocks the spell  &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Fire_Dragovian"&gt;Vulcan Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="h7b9046bcb7de46b6ac0fc88f9bd518e757gg" version="1">Dovahsil: Sub-Zero Breath</content>
+	<content contentuid="h10153ad707944c9e8ed023063ed81860c40a" version="1">Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Cold_Dragovian"&gt;Sub-Zero Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="h35f26738d65a42908c611c042d0355b9dac3" version="1">Dovahsil: Crackling Breath</content>
+	<content contentuid="haac9e5f49a3d4b7da6a3c215846e8ebc79de" version="1">Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Lightning_Dragovian"&gt;Crackling Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="h61a871728b334e89afbbfa1d3c75fd2ae2f3" version="1">Dovahsil: Poisonous Breath</content>	
+	<content contentuid="h06c5cee0eb3441cba84ca335e1aac9f3af61" version="1">Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Poison_Dragovian"&gt;Poisonous Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="h2ace5afd333041b79073aa1d84a8610e960a" version="1"></content>
+	<content contentuid="h21fbddc542cc4a11b871a7ac322386f153b5" version="1"></content>	
 	<content contentuid="h65825a85df924613a044ada11d4470dc2f4b" version="1">Vulcan Breath</content>
 	<content contentuid="hb8328ddba2a34910af79d1ac6931c5c67598" version="1">Ignite your foes with a flaming projectile from your gaping maw. Explodes on contact.</content>
 	<content contentuid="h556eb324d7e44e518680783593f813102681" version="1">Sub-Zero Breath</content>
@@ -48,6 +58,36 @@
 	<content contentuid="hef99f081a46e4383b129dd902650460b452f" version="1">Should &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; critically strike, foes will be &lt;LSTag Type="Spell" Tooltip="Projectile_NecroShove"&gt;forceably shoved&lt;/LSTag&gt; by the resulting blast.</content>
 	<content contentuid="ha07813a6ae7543bb9ea64cdbb15e94d72e47" version="1">Necro-Shove</content>
 	<content contentuid="h7963dadbff5b47e78ad3efe2d677a628942c" version="1">Shove all targets back from the resulting blast.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

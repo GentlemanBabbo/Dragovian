@@ -69,7 +69,7 @@
                   <attribute id="Name" type="LSString" value="Dovahsil" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSpells(91293f6c-8c7e-4290-82f4-295379a63c43,1,0,,,,AlwaysPrepared)" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="SelectPassives(28d2bde8-3d1c-4f4e-b6e2-87134adb294c,1)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="7059b2db-a12c-4c3e-b077-ea726493c650" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="3b86f61f-d3e9-4c92-8a92-ffe183777789" />  this one must be unique
@@ -128,7 +128,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Kovgam" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_ReforgedSkin;Passive_Dragovian_MartialProdigy" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_ReforgedSkin" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="494d2e15-5bef-4ab8-8d44-f1bf1c1fece5" /> Always use this one for races.lsx, says this progression node is for Sub Race
