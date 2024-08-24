@@ -12,7 +12,7 @@
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Dovahsil"/> 
                     <attribute id="Spells" type="LSString" value="Projectile_BreathWeapon_Fire_Dragovian;Projectile_BreathWeapon_Cold_Dragovian;Projectile_BreathWeapon_Lightning_Dragovian;Projectile_BreathWeapon_Poison_Dragovian"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="4a95c768-f6d6-479c-afae-beb7f2df807f"/> the UUID, needs to be unique
+                    <attribute id="UUID" type="guid" value="91293f6c-8c7e-4290-82f4-295379a63c43"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Dovahsil"/> 
