@@ -3377,9 +3377,9 @@
 			<!--DragonOgre Male Body-->
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
-					<attribute id="ID" type="FixedString" value="72e56941-1cd1-42ff-8a4e-3dc7cb62e05b" /> Generate new UUID
+					<attribute id="ID" type="FixedString" value="0ec324c4-3067-49c6-8ae4-468b0453508b" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="COLORABLE_Dragovian_WINGS_MAT" />
+					<attribute id="Name" type="LSString" value="COLORABLE_Dragovian_WINGS_D_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Body_DGB.lsf" />
 					<children>
 						<node id="ScalarParameters">
@@ -3980,11 +3980,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="21b82724-eb15-4c83-b162-3038b4feb880" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_MSK" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_D_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_D_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_MSK" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_D_MSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -3993,11 +3993,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="abc625f8-b699-4c5e-be4d-70a3fcc991b0" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_DMSK" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_D_DMSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_DMSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_D_DMSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_DMSK" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_D_DMSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -4006,11 +4006,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="bf866bbb-cb4c-49d4-a98c-88a592a76e17" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_CLEA" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_D_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_D_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_CLEA" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_D_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -4019,11 +4019,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="306553fb-12a3-4fe6-b6f8-1fa0031560ad" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_NM" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_D_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_D_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_NM" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_D_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -4032,11 +4032,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="90e0a6c1-6682-497a-8caa-68a64e4d9f28" />
-					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_CTLO" />
+					<attribute id="Name" type="LSString" value="Dragovian_M_Wings_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_CTLO.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Wings_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_CTLO" />
+					<attribute id="Template" type="FixedString" value="Dragovian_M_Wings_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -4078,7 +4078,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d8fc9e38-4e69-0a8d-cc25-f6190ff262e8" />
+							<attribute id="MaterialID" type="FixedString" value="0ec324c4-3067-49c6-8ae4-468b0453508b" />
 							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Wings_D.DEMON_Raphael_Wings_A_Mesh.0" />
 						</node>
 					</children>
