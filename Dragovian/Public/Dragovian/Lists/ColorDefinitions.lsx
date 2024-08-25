@@ -8,266 +8,266 @@
                     <attribute id="Color" type="LSString" value="#FFEFC6BF" /> 
                     <attribute id="DisplayName" type="TranslatedString" handle="h334734c8gcb89g41d3gb697g84c7b532e7aa" version="1" />  
                     <attribute id="Name" type="FixedString" value="Pink_Dust_Storm" />
-                    <attribute id="UUID" type="guid" value="3a646bea-ee31-43f8-b0d4-377b53c2c9ad" /> 
+                    <attribute id="UUID" type="guid" value="638aa39f-5714-45e7-b32e-fa633e2dc3e1" /> 
 					
                 </node>
         <node id="ColorDefinition"> Pink Wisteria
                     <attribute id="Color" type="LSString" value="#FFCAA4D8" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ha2f75395g42a7g4400ga685g6bf89338927f" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Pink_Wisteria" />
-                    <attribute id="UUID" type="guid" value="33641655-f190-4df6-9e1b-7fe41f66720b" /> 
+                    <attribute id="UUID" type="guid" value="c89cbb86-3c93-4e1e-935b-e5a83d6139d1" /> 
                 </node>
         <node id="ColorDefinition"> Pink Heliotrope
                     <attribute id="Color" type="LSString" value="#FFDA75FF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h4c5347b5gf8a8g479bgaa85gce50d22f9d15" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Pink_Heliotrope" />
-                    <attribute id="UUID" type="guid" value="6035a824-6b59-4cfb-9a39-101c9ab2eb7a" /> 
+                    <attribute id="UUID" type="guid" value="8873913f-d9a0-45e4-87e4-5fb152397a9f" /> 
                 </node>
         <node id="ColorDefinition"> Electric Purple
                     <attribute id="Color" type="LSString" value="#FFB900FC" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hc52addbcg0324g4448g951bg82ad5cb5f0d4" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Electric_Purple" />
-                    <attribute id="UUID" type="guid" value="59939154-179e-44ad-b9c2-568c6e8b9542" /> 
+                    <attribute id="UUID" type="guid" value="2768c43f-cb40-4dff-8b67-7797b7898c34" /> 
                 </node>
         <node id="ColorDefinition"> Indigo Purple
                     <attribute id="Color" type="LSString" value="#FF5E0082" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h2c3834ceg11adg49dcg8ab5gfca6143b6d63" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Indigo_Purple" />
-                    <attribute id="UUID" type="guid" value="986404d3-0cf6-497a-8060-dd79b27787fd" /> 
+                    <attribute id="UUID" type="guid" value="2ec1b086-75f8-4d12-ad33-71a45f80c408" /> 
                 </node>
         <node id="ColorDefinition"> Blackcurrant 1
                     <attribute id="Color" type="LSString" value="#FF3C0053" />
                     <attribute id="DisplayName" type="TranslatedString" handle="he3ee19ebg0063g4d0dg81f6ga670ef64db3d" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Blackcurrant_1" />
-                    <attribute id="UUID" type="guid" value="549c5a12-3f8b-4472-8ee0-de35472cc3a4" /> 
+                    <attribute id="UUID" type="guid" value="f8a0287d-1ea6-4cd6-bdcf-96dc9f65cdf8" /> 
                 </node>
         <node id="ColorDefinition"> Blackcurrant 2
                     <attribute id="Color" type="LSString" value="#FF260035" />
                     <attribute id="DisplayName" type="TranslatedString" handle="he96ae00fg7a34g4fc0gba7dg500905e304d2" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Blackcurrant_2" />
-                    <attribute id="UUID" type="guid" value="c725d70f-5f96-4efa-8b31-7b7bbd801eb6" /> 
+                    <attribute id="UUID" type="guid" value="ae330aa7-c682-4158-afb6-256e0ebd229a" /> 
                 </node>
         <node id="ColorDefinition"> Blackcurrant 3
                     <attribute id="Color" type="LSString" value="#FF1E002A" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h25dee1d9gdf4eg41e6gb20egd83cfe79ad7f" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Blackcurrant_3" />
-                    <attribute id="UUID" type="guid" value="64ed798d-bfad-451f-9358-b4c0ec492ca0" /> 
+                    <attribute id="UUID" type="guid" value="a1ce6265-0e98-4228-bc7e-38e6ecb85189" /> 
                 </node>
         <node id="ColorDefinition"> Salmon
                     <attribute id="Color" type="LSString" value="#FFFF8C69" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h137faa7bg3224g4911ga21dg18a59e939404" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Salmon" />
-                    <attribute id="UUID" type="guid" value="39b73f97-8a71-4a5f-832c-a90648300d92" /> 
+                    <attribute id="UUID" type="guid" value="16194def-4b84-4495-84c4-80bf69d655b1" /> 
                 </node>
         <node id="ColorDefinition"> Coral
                     <attribute id="Color" type="LSString" value="#FFFF7f50" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h41307c1ega81cg4a88g8223gd640ec351739" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Coral" />
-                    <attribute id="UUID" type="guid" value="684d536d-5ee7-42bb-9e72-6ef9176740ac" /> 
+                    <attribute id="UUID" type="guid" value="8e8ced2a-8152-43cd-b3f3-8761cdf21f00" /> 
                 </node>
         <node id="ColorDefinition"> Tomato
                     <attribute id="Color" type="LSString" value="#FFFF6347" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h4cdd9c9fg509eg4440gb199g1ee30f7da949" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Tomato" />
-                    <attribute id="UUID" type="guid" value="bb2c5b77-d1e3-4d14-a43b-bccf3e4ee60a" /> 
+                    <attribute id="UUID" type="guid" value="9a6e73b5-47be-40a2-a570-1cdec534501c" /> 
                 </node>
         <node id="ColorDefinition"> Orange Red
                     <attribute id="Color" type="LSString" value="#FFFF5349" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h45edee34gabf3g4f10g94ecg2674234ab5e7" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Orange_Red" />
-                    <attribute id="UUID" type="guid" value="2ae15bbd-5e7f-4123-8ef6-60277e2c35fe" /> 
+                    <attribute id="UUID" type="guid" value="5054017e-aeac-43f4-86d5-8fc9bfac5e0f" /> 
                 </node>
         <node id="ColorDefinition"> Open Red
                     <attribute id="Color" type="LSString" value="#FFFF0000" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h80cd86f9gea63g4af3gbbadg330eda0e6522" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Open_Red" />
-                    <attribute id="UUID" type="guid" value="8af8d53a-4a43-40b1-a8e0-43be5ffdaa58" /> 
+                    <attribute id="UUID" type="guid" value="6ea6f0e8-6b77-4748-8043-d6e2fe66f1e0" /> 
                 </node>
         <node id="ColorDefinition"> Scarlet
                     <attribute id="Color" type="LSString" value="#FFFF2400" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hb6d587begc327g4285ga61dg4e526507f823" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Scarlet" />
-                    <attribute id="UUID" type="guid" value="617ceee3-7afe-47fc-b508-ab123f7ab4b5" /> 
+                    <attribute id="UUID" type="guid" value="07236db8-4850-46e5-9e5e-6add29d25010" /> 
                 </node>
         <node id="ColorDefinition"> Crimson
                     <attribute id="Color" type="LSString" value="#FFDC143c" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hb25be870g3ae9g4af0g828eg3c8b7aaca3e9" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Crimson" />
-                    <attribute id="UUID" type="guid" value="65c23605-084e-49f5-9def-d129493223b9" /> 
+                    <attribute id="UUID" type="guid" value="1dc9e193-c6b0-40a2-8e5a-8488bd2f3067" /> 
                 </node>
         <node id="ColorDefinition"> Burgundy
                     <attribute id="Color" type="LSString" value="#FF800020" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h47aa2008g9c62g47b1g8f86g2a6bf6985811" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Burgundy" />
-                    <attribute id="UUID" type="guid" value="5ba5d412-fe12-47ad-a092-f3c2ad852d24" /> 
+                    <attribute id="UUID" type="guid" value="cdcce990-9bd8-4f06-9f6e-73fc5ba6bff8" /> 
                 </node>
         <node id="ColorDefinition"> Bordeaux
                     <attribute id="Color" type="LSString" value="#FF5A002C" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hc74be648g54d9g4760g9ea8gd062c5cae248" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Bordeaux" />
-                    <attribute id="UUID" type="guid" value="ad22c977-8dd6-4c7e-b8a2-d41533a779c1" /> 
+                    <attribute id="UUID" type="guid" value="773967db-8395-4468-bed2-af8cc0a7d1c8" /> 
                 </node>
         <node id="ColorDefinition"> Blackberry
                     <attribute id="Color" type="LSString" value="#FF2E0016" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h713f13a2g5dceg4801gac1agfc29c2f042b4" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Blackberry" />
-                    <attribute id="UUID" type="guid" value="04df0dda-b19d-4405-87be-44c3821bd5d4" /> 
+                    <attribute id="UUID" type="guid" value="7e7404e3-0559-440b-bc0b-f91c6b8c4e86" /> 
                 </node>
         <node id="ColorDefinition"> Rustic Red
                     <attribute id="Color" type="LSString" value="#FF1E000E" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h14590e44g0703g4be2g96a9geb0f090d77bf" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Rustic_Red" />
-                    <attribute id="UUID" type="guid" value="21d37f95-9064-407a-8dd7-b12ef7f90beb" /> 
+                    <attribute id="UUID" type="guid" value="2f6ad740-c94d-4a48-adfe-062a6e53ed58" /> 
                 </node>
         <node id="ColorDefinition"> Light Cyan
                     <attribute id="Color" type="LSString" value="#FFCAFDFF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hed6bb822gd242g428ag841dg4242a8c99c47" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Light_Cyan" />
-                    <attribute id="UUID" type="guid" value="c374bb24-132b-4709-a840-49cc9585455e" /> 
+                    <attribute id="UUID" type="guid" value="eccbf073-38fa-4090-b797-88e9a2e45078" /> 
                 </node>
         <node id="ColorDefinition"> Electric Blue
                     <attribute id="Color" type="LSString" value="#FF7DF9FF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h4bcb513bg3165g4cdfg98c4g7c8ec27bf4a9" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Electric_Blue" />
-                    <attribute id="UUID" type="guid" value="cd8ff138-5efc-4f62-8d35-51064994a49a" /> 
+                    <attribute id="UUID" type="guid" value="d90b4fd0-2510-48fb-a73c-62117909a504" /> 
                 </node>
         <node id="ColorDefinition"> Cyan
                     <attribute id="Color" type="LSString" value="#FF00FFFF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h3d513646g6a36g415fgbd8ag592a6d3d5dae" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Cyan" />
-                    <attribute id="UUID" type="guid" value="81cb6737-98bb-40da-8730-eae304db1f5e" /> 
+                    <attribute id="UUID" type="guid" value="6dfed400-333e-4294-8d97-bf8e45b31ae7" /> 
                 </node>
         <node id="ColorDefinition"> Dark Turquoise
                     <attribute id="Color" type="LSString" value="#FF00CED1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ha0e42a45gc850g493cg8e8ag9b7577fef4c5" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Dark_Turquoise" />
-                    <attribute id="UUID" type="guid" value="bf6a2b08-a7db-42f8-bfae-feb1d03ec3a7" /> 
+                    <attribute id="UUID" type="guid" value="89d20e37-0ea8-42e0-b800-a353eda3e884" /> 
                 </node>
         <node id="ColorDefinition"> Tiffany Blue
                     <attribute id="Color" type="LSString" value="#FF0ABAB5" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h5eede99egc612g4c8bgb817gf0d723a2f0e9" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Tiffany_Blue" />
-                    <attribute id="UUID" type="guid" value="7a2cf7af-b707-45b5-b336-ef57cc43f57b" /> 
+                    <attribute id="UUID" type="guid" value="08647e30-6f5d-4200-8098-2e4cbf03fe3a" /> 
                 </node>
         <node id="ColorDefinition"> Aquamarine
                     <attribute id="Color" type="LSString" value="#FF7FFFD4" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hca5ddbebgfb8bg44d7gb53dg9f74b70bbd29" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Aquamarine" />
-                    <attribute id="UUID" type="guid" value="eb905868-8053-4dde-86e0-838453255b63" /> 
+                    <attribute id="UUID" type="guid" value="8db881bb-7858-4d79-9795-a58b9f346425" /> 
                 </node>
         <node id="ColorDefinition"> Mint
                     <attribute id="Color" type="LSString" value="#FF3EB489" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h207bea54g4343g4280g8e6ega8fa03261d5a" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Mint" />
-                    <attribute id="UUID" type="guid" value="f3771a4b-f927-432a-9ba2-c1f67a31dec9" /> 
+                    <attribute id="UUID" type="guid" value="7ca7904c-7db4-4ffa-aa78-ac5a60ff327f" /> 
                 </node>
         <node id="ColorDefinition"> Teal
                     <attribute id="Color" type="LSString" value="#FF008080" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h36b6b5a6gdd7dg4cf3g8d11gff2b7f9e5b97" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Teal" />
-                    <attribute id="UUID" type="guid" value="2bbed185-124b-4796-b5a5-129c5fe511e0" /> 
+                    <attribute id="UUID" type="guid" value="708c0664-da7f-4c0a-bbac-28fde934c397" /> 
                 </node>
         <node id="ColorDefinition"> Blue Green
                     <attribute id="Color" type="LSString" value="#FF0D98BA" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h3b7360e2g42ecg4db8g8d6cg2b6151773f90" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Blue_Green" />
-                    <attribute id="UUID" type="guid" value="04cafdfe-e963-4b0b-b8d6-a6987a033e3b" /> 
+                    <attribute id="UUID" type="guid" value="74b9292b-a68a-49e9-8734-393bea25922c" /> 
                 </node>
         <node id="ColorDefinition"> Baby Blue
                     <attribute id="Color" type="LSString" value="#FF89CFF0" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ha81d1b80g4e0dg4bc2gabdcg3d5c412b620e" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Baby_Blue" />
-                    <attribute id="UUID" type="guid" value="d4699903-afd5-48cb-a1ca-984cc649b526" /> 
+                    <attribute id="UUID" type="guid" value="e518c44e-0353-45b6-b1c4-c1c74e82002c" /> 
                 </node>
         <node id="ColorDefinition"> Columbia Blue
                     <attribute id="Color" type="LSString" value="#FF97DBFF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h92028690g158fg44b4gb9c8g79f7d16a8936" version="1" />
                     <attribute id="Name" type="FixedString" value="Columbia_Blue" />
-                    <attribute id="UUID" type="guid" value="05712bf9-8d88-4706-a197-9ee0c37eb884" /> 
+                    <attribute id="UUID" type="guid" value="b4a0d790-ebdc-4b09-ae7e-b113ab3282cb" /> 
                 </node>
         <node id="ColorDefinition"> Deep Sky Blue
                     <attribute id="Color" type="LSString" value="#FF00BFFF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hb30c54a5g929fg4c83g968egb7f024b3da28" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Deep_Sky_Blue" />
-                    <attribute id="UUID" type="guid" value="9851a068-d3f0-440a-9e86-38314a8f38c9" /> 
+                    <attribute id="UUID" type="guid" value="7472ff76-47b8-4882-806f-3562c61f5f99" /> 
                 </node>
         <node id="ColorDefinition"> Azure
                     <attribute id="Color" type="LSString" value="#FF007FFF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hec467049gbc55g4742gbb5dg59df0c68d22e" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Azure" />
-                    <attribute id="UUID" type="guid" value="bcd329c2-8265-43b9-8c27-afcb25d0fc16" /> 
+                    <attribute id="UUID" type="guid" value="617a8520-1e5a-4798-b489-a8958b2b3cc2" /> 
                 </node>
         <node id="ColorDefinition"> Open Blue
                     <attribute id="Color" type="LSString" value="#FF0000FF" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hc3bc010age03bg45c9gb0a7g0de5a4599c87" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Open_Blue" />
-                    <attribute id="UUID" type="guid" value="1743dfad-46db-4790-ae04-b0a21e74ee1a" /> 
+                    <attribute id="UUID" type="guid" value="6b078502-2eaf-4557-8e01-dbee8c48ef06" /> 
                 </node>
         <node id="ColorDefinition"> Midnight Blue
                     <attribute id="Color" type="LSString" value="#FF191970" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h16f4e1dbg3fb5g431fg82f0gb0bfb60379e5" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Midnight_Blue" />
-                    <attribute id="UUID" type="guid" value="197061a0-cfec-4edb-bcd8-5f106d4eed29" /> 
+                    <attribute id="UUID" type="guid" value="0eab9a12-f189-46a3-8b49-b4b3cc7a669a" /> 
                 </node>
         <node id="ColorDefinition"> Neon Green
                     <attribute id="Color" type="LSString" value="#FF39FF14" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hcac382e5g30cdg46c9g88f9g00d2f65df959" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Neon_Green" />
-                    <attribute id="UUID" type="guid" value="3f39b8af-7f3a-41b6-9954-0d57e433d0f1" /> 
+                    <attribute id="UUID" type="guid" value="d50a8912-7ffa-4389-9540-aefbd8b807db" /> 
                 </node>
         <node id="ColorDefinition"> Electric Lime
                     <attribute id="Color" type="LSString" value="#FFC9FC00" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h7650bcbcg7e15g433bg8d63g035acf1e1c80" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Electric_Lime" />
-                    <attribute id="UUID" type="guid" value="949846e1-0c76-4a41-9139-9fefe3ab71df" /> 
+                    <attribute id="UUID" type="guid" value="8671a098-a2d7-418f-a69c-657b6b0bfa91" /> 
                 </node>
         <node id="ColorDefinition"> Yellow
                     <attribute id="Color" type="LSString" value="#FFFFFF00" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h5078dc11g6371g46aagb82bg2c9a9ba41e1a" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Yellow" />
-                    <attribute id="UUID" type="guid" value="319ccc78-7e21-4b2a-8aa2-0d3726fc54ec" /> 
+                    <attribute id="UUID" type="guid" value="68fcb85a-0de9-4f48-92e7-9eb3ccc26149" /> 
                 </node>
         <node id="ColorDefinition"> Gold
                     <attribute id="Color" type="LSString" value="#FFFFD700" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h33586f73g98a3g42a7g988eg1708aab4048e" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Gold" />
-                    <attribute id="UUID" type="guid" value="0943afc6-cc5c-4c44-8b98-8ace0f95d7de" /> 
+                    <attribute id="UUID" type="guid" value="94155306-c0a1-4b00-8599-ffd239bb4e06" /> 
                 </node>
         <node id="ColorDefinition"> Amber
                     <attribute id="Color" type="LSString" value="#FFFFBF00" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h5b90fb0eg19beg4258gb566g2e0dde517818" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Amber" />
-                    <attribute id="UUID" type="guid" value="b9abaa5f-ed0e-4261-8745-1f608177c23c" /> 
+                    <attribute id="UUID" type="guid" value="086639c6-1727-4019-8555-eb29b8f36f44" /> 
                 </node>
         <node id="ColorDefinition"> Orange
                     <attribute id="Color" type="LSString" value="#FFFFA500" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h28eb1336gfd3cg4f6bg8657g1cf3b44b5c34" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Orange" />
-                    <attribute id="UUID" type="guid" value="4ef2c77c-2951-4a4d-8afb-1799b47e908c" /> 
+                    <attribute id="UUID" type="guid" value="e8f2201a-431d-48ed-9fb1-7986f1666e34" /> 
                 </node>
         <node id="ColorDefinition"> Bright Orange
                     <attribute id="Color" type="LSString" value="#FFFF5F00" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hc1f7128aga46fg4f9bgac0ag310e8d6ee6c9" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Bright_Orange" />
-                    <attribute id="UUID" type="guid" value="dd65dda5-9366-43d4-9e7e-0484a74911e6" /> 
+                    <attribute id="UUID" type="guid" value="65b4cad3-ed96-4f53-807e-0371dc6c3d1a" /> 
                 </node>
         <node id="ColorDefinition"> Watermelon
                     <attribute id="Color" type="LSString" value="#FFD23B68" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h58246594ge8d8g4502gb9e2g3ae4b31c083a" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Watermelon" />
-                    <attribute id="UUID" type="guid" value="610a4e3a-9117-4029-966d-ef7292f6e0fd" /> 
+                    <attribute id="UUID" type="guid" value="0d5df9fd-951a-4c15-82c0-635a101225e7" /> 
                 </node>
         <node id="ColorDefinition"> Raspberry
                     <attribute id="Color" type="LSString" value="#FFE30B5D" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h3136b7e0g569cg4257g9b85ga5485fe3f6d6" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Raspberry" />
-                    <attribute id="UUID" type="guid" value="65b1dbfe-7e7a-4437-a5b1-8925b4b88181" /> 
+                    <attribute id="UUID" type="guid" value="fa607be6-522d-42db-99cc-d91b8c6ce953" /> 
                 </node>
         <node id="ColorDefinition"> Rose Red
                     <attribute id="Color" type="LSString" value="#FFC21E56" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hb4725e09g9c58g4c37g860dge35231c28f89" version="1" /> 
                     <attribute id="Name" type="FixedString" value="Rose_Red" />
-                    <attribute id="UUID" type="guid" value="f6169cdc-3e44-4395-8f7a-d5b38acf2b87" /> 
+                    <attribute id="UUID" type="guid" value="a39b9634-39d9-475b-b9b1-87e5b1ab8684" /> 
                 </node>
       </children>
     </node>
