@@ -166,7 +166,7 @@
                     <!--Head Parts A-->
                         <node id="CharacterCreationAppearanceVisual">
                             <attribute id="BodyShape" type="uint8" value="0"/>
-                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="1"/>
                             <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
                             <attribute id="HeadAppearanceUUID" type="guid" value="efd9da12-cd29-461c-b314-8c31b8b4e438"/>
                             <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
@@ -189,7 +189,7 @@
                     <!--Head Parts A-->
                         <node id="CharacterCreationAppearanceVisual">
                             <attribute id="BodyShape" type="uint8" value="0"/>
-                            <attribute id="BodyType" type="uint8" value="0"/>
+                            <attribute id="BodyType" type="uint8" value="1"/>
                             <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
                             <attribute id="HeadAppearanceUUID" type="guid" value="d4edce48-4836-45ec-b8a4-9d8b05795e5f"/>
                             <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
