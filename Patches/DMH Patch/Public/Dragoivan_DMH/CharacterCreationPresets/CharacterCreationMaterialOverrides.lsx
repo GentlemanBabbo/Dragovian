@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationMaterialOverrides">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationMaterialOverride">  
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+                    <attribute id="MaterialType" type="FixedString" value="Passive" />
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_D_EL" />
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="c618a68a-fb20-4183-8abf-d4c9b31e8b2c" />    
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="e8c43ecf-108f-4ae3-887d-bdad44ef7616" />    
+                    <attribute id="UUID" type="guid" value="2517a325-67b8-497f-9a4c-c04345e7af28" /> 
+                </node>
+        <node id="CharacterCreationMaterialOverride">  
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+                    <attribute id="MaterialType" type="FixedString" value="Passive" />
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_D_EL_R" />
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="2b927896-cd3a-4c14-b708-06c1106c7e48" />    
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="7900558a-259e-4276-92ce-144b43e41f16" />    
+                    <attribute id="UUID" type="guid" value="392895e6-28c6-4b84-b614-c1747823fcd5" /> 
+                </node>
+        <node id="CharacterCreationMaterialOverride">  
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+                    <attribute id="MaterialType" type="FixedString" value="Passive" />
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_D_EL_Top_MD" />
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="66035f28-19b5-4e27-979f-f8257f2494a4" />    
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="b20cdf92-9620-4222-98cf-39200ea52e10" />    
+                    <attribute id="UUID" type="guid" value="7bdacc68-1612-4858-9d07-81eab899d0e1" /> 
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
