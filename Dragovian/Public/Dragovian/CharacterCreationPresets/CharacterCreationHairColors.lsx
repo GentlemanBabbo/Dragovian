@@ -9,315 +9,315 @@
                     <attribute id="MaterialPresetUUID" type="guid" value="b2cf0d71-176d-4653-976b-888e1379857c" /> 
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Pink_Dust_Storm" /> 
                     <attribute id="UIColor" type="LSString" value="#FFEFC6BF" /> 
-                    <attribute id="UUID" type="guid" value="52f2600f-2a3f-4f97-8fc1-fbd37de4766b" /> 
+                    <attribute id="UUID" type="guid" value="8c45ca44-29c2-4fc0-8fb8-d4883d6fd65d" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Pink Wisteria
                     <attribute id="DisplayName" type="TranslatedString" handle="ha2f75395g42a7g4400ga685g6bf89338927f" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="ce727a1f-c308-4b89-8c10-6ae6f44336ad" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Pink_Wisteria" />
                     <attribute id="UIColor" type="LSString" value="#FFCAA4D8" />
-                    <attribute id="UUID" type="guid" value="222869aa-f1e7-4eb7-8a2d-9e058a636d5c" />
+                    <attribute id="UUID" type="guid" value="6c228a30-d69f-41de-a1e5-2d6e65026e98" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Pink Heliotrope
                     <attribute id="DisplayName" type="TranslatedString" handle="h4c5347b5gf8a8g479bgaa85gce50d22f9d15" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="08679afc-06fe-478f-956a-9789cfc04287" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Pink_Heliotrope" />
                     <attribute id="UIColor" type="LSString" value="#FFDA75FF" />
-                    <attribute id="UUID" type="guid" value="f5807224-e034-4264-8336-dbcb21ff34fa" />
+                    <attribute id="UUID" type="guid" value="b1f2608c-04f1-42ea-8b40-801642084b82" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Electric Purple
                     <attribute id="DisplayName" type="TranslatedString" handle="hc52addbcg0324g4448g951bg82ad5cb5f0d4" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="7010d8c2-5ae1-4559-a30a-aceda692e87b" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Electric_Purple" />
                     <attribute id="UIColor" type="LSString" value="#FFB900FC" />
-                    <attribute id="UUID" type="guid" value="81b1ab1d-aecf-4de9-b62b-9d109d513c29" />
+                    <attribute id="UUID" type="guid" value="3e1efb62-8c86-4ae5-a7e9-e2abe9fdc3c1" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Indigo Purple
                     <attribute id="DisplayName" type="TranslatedString" handle="h2c3834ceg11adg49dcg8ab5gfca6143b6d63" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="01e3ea1f-956b-4c17-9f4f-882a318bfc12" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Indigo_Purple" />
                     <attribute id="UIColor" type="LSString" value="#FF5E0082" />
-                    <attribute id="UUID" type="guid" value="c3ad0134-5e21-412c-939d-dafdfc293017" />
+                    <attribute id="UUID" type="guid" value="5c1fe9c4-1af8-448a-afef-e95a4a8b4f23" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Blackcurrant 1
                     <attribute id="DisplayName" type="TranslatedString" handle="he3ee19ebg0063g4d0dg81f6ga670ef64db3d" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="da397fd3-8def-48ea-83fb-e6364aaa869c" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Blackcurrant_1" />
                     <attribute id="UIColor" type="LSString" value="#FF3C0053" />
-                    <attribute id="UUID" type="guid" value="87aafd89-b048-4333-ad7a-6221ad90a6d8" />
+                    <attribute id="UUID" type="guid" value="0ad7574e-e5c2-435b-9dd5-39d1c53f7be8" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Blackcurrant 2
                     <attribute id="DisplayName" type="TranslatedString" handle="he96ae00fg7a34g4fc0gba7dg500905e304d2" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="1bba3906-a83b-4d64-8c83-73036f6ecdff" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Blackcurrant_2" />
                     <attribute id="UIColor" type="LSString" value="#FF260035" />
-                    <attribute id="UUID" type="guid" value="253da0fd-b0b1-45a8-b503-91c361e94eaa" />
+                    <attribute id="UUID" type="guid" value="0574e22e-0cd9-434a-b13c-06bd7a4fb649" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Blackcurrant 3
                     <attribute id="DisplayName" type="TranslatedString" handle="h25dee1d9gdf4eg41e6gb20egd83cfe79ad7f" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="612db7e5-ab62-4fca-adbe-4b8109aa9ce4" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Blackcurrant_3" />
                     <attribute id="UIColor" type="LSString" value="#FF1E002A" />
-                    <attribute id="UUID" type="guid" value="7b5f452f-29db-4e1b-96d9-72c41ec83392" />
+                    <attribute id="UUID" type="guid" value="99794d04-5cde-44f5-a690-0e48fcd9cce2" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Salmon
                     <attribute id="DisplayName" type="TranslatedString" handle="h137faa7bg3224g4911ga21dg18a59e939404" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="fecef1cd-0b3a-4734-b47a-7ea89ababc2b" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Salmon" />
                     <attribute id="UIColor" type="LSString" value="#FFFF8C69" />
-                    <attribute id="UUID" type="guid" value="b87867ba-471c-40ac-b5af-ee48b6df72a3" />
+                    <attribute id="UUID" type="guid" value="5cb85dee-5e31-4ca7-a80e-1803f8999476" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Coral
                     <attribute id="DisplayName" type="TranslatedString" handle="h41307c1ega81cg4a88g8223gd640ec351739" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="07c182a0-2cb7-4897-bc66-08e1152f666d" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Coral" />
                     <attribute id="UIColor" type="LSString" value="#FFFF7f50" />
-                    <attribute id="UUID" type="guid" value="f64fa656-85a2-4eae-a70e-e30f668a6341" />
+                    <attribute id="UUID" type="guid" value="4e83e8ab-9662-4d0d-a1e0-62819c8cfdea" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Tomato
                     <attribute id="DisplayName" type="TranslatedString" handle="h4cdd9c9fg509eg4440gb199g1ee30f7da949" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="06a8b475-d9e4-40e9-9272-1b92ce025773" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Tomato" />
                     <attribute id="UIColor" type="LSString" value="#FFFF6347" />
-                    <attribute id="UUID" type="guid" value="d184429d-fe23-40ba-ac9d-a8c761c73481" />
+                    <attribute id="UUID" type="guid" value="863521ad-9c53-4bb6-aa3a-4bce6a037623" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Orange Red
                     <attribute id="DisplayName" type="TranslatedString" handle="h45edee34gabf3g4f10g94ecg2674234ab5e7" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="25bf3a4c-17d6-4db1-9dd8-9de6568e234a" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Orange_Red" />
                     <attribute id="UIColor" type="LSString" value="#FFFF5349" />
-                    <attribute id="UUID" type="guid" value="22638e8b-c479-4d2d-a700-352b5b5338e8" />
+                    <attribute id="UUID" type="guid" value="f45c2ff7-8e2d-4cf3-ae82-ad0ce8bb667d" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Open Red
                     <attribute id="DisplayName" type="TranslatedString" handle="h80cd86f9gea63g4af3gbbadg330eda0e6522" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="3de3f73c-cc06-44ae-ab44-bceb460a1487" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Open_Red" />
                     <attribute id="UIColor" type="LSString" value="#FFFF0000" />
-                    <attribute id="UUID" type="guid" value="a87a57a4-0d63-4374-9b56-bdbf5f81673d" />
+                    <attribute id="UUID" type="guid" value="25c3b39a-36f6-42ae-ab3b-9472d20b9a51" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Scarlet
                     <attribute id="DisplayName" type="TranslatedString" handle="hb6d587begc327g4285ga61dg4e526507f823" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="edee1bd6-e6cb-4055-b375-86c16d8eae96" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Scarlet" />
                     <attribute id="UIColor" type="LSString" value="#FFFF2400" />
-                    <attribute id="UUID" type="guid" value="1c3e83e2-a563-4789-8172-528435b0107c" />
+                    <attribute id="UUID" type="guid" value="f29da543-4979-4e08-b1e3-819e07c9bf3b" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Crimson
                     <attribute id="DisplayName" type="TranslatedString" handle="hb25be870g3ae9g4af0g828eg3c8b7aaca3e9" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="444b3964-9124-4e73-902c-c28d66331acd" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Crimson" />
                     <attribute id="UIColor" type="LSString" value="#FFDC143c" />
-                    <attribute id="UUID" type="guid" value="187562e1-a556-4619-9e9f-0f72b13d2172" />
+                    <attribute id="UUID" type="guid" value="71b57555-0f11-4925-a87b-565b35d8c378" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Burgundy
                     <attribute id="DisplayName" type="TranslatedString" handle="h47aa2008g9c62g47b1g8f86g2a6bf6985811" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="ae45f6a9-7d2d-4c7a-b18e-575ecd8ae0fb" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Burgundy" />
                     <attribute id="UIColor" type="LSString" value="#FF800020" />
-                    <attribute id="UUID" type="guid" value="b6380922-5a5a-4b5d-8a90-57e275d00e63" />
+                    <attribute id="UUID" type="guid" value="f58fd94d-1602-4e83-8da2-db005f756a5a" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Bordeaux
                     <attribute id="DisplayName" type="TranslatedString" handle="hc74be648g54d9g4760g9ea8gd062c5cae248" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="9c8b518b-23e2-4fd0-8d47-046c907db581" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Bordeaux" />
                     <attribute id="UIColor" type="LSString" value="#FF5A002C" />
-                    <attribute id="UUID" type="guid" value="1d58e9f6-36d0-4111-9300-2a82a651841c" />
+                    <attribute id="UUID" type="guid" value="ee7f2e2d-0ec0-4eee-b67e-366779d372e3" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Blackberry
                     <attribute id="DisplayName" type="TranslatedString" handle="h713f13a2g5dceg4801gac1agfc29c2f042b4" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="aa1690d7-8a3f-40f0-ad38-5a7d31b6fa07" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Blackberry" />
                     <attribute id="UIColor" type="LSString" value="#FF2E0016" />
-                    <attribute id="UUID" type="guid" value="1b78a804-5ded-491c-bf43-95c2bd3c6512" />
+                    <attribute id="UUID" type="guid" value="21fb6f2d-873a-4260-98b1-b06539841e6e" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Rustic Red
                     <attribute id="DisplayName" type="TranslatedString" handle="h14590e44g0703g4be2g96a9geb0f090d77bf" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="a7e287f4-2d6c-4dc9-8f48-4735985f56e6" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Rustic_Red" />
                     <attribute id="UIColor" type="LSString" value="#FF1E000E" />
-                    <attribute id="UUID" type="guid" value="48036f25-eaeb-460b-a767-99736848853b" />
+                    <attribute id="UUID" type="guid" value="b31f3533-4965-4ef8-a529-89c110db065d" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Light Cyan
                     <attribute id="DisplayName" type="TranslatedString" handle="hed6bb822gd242g428ag841dg4242a8c99c47" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="bd215b14-95f3-4fee-8df5-395fc1afbd0b" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Light_Cyan" />
                     <attribute id="UIColor" type="LSString" value="#FFCAFDFF" />
-                    <attribute id="UUID" type="guid" value="42516603-5104-4493-ac3e-735c45f82ca1" />
+                    <attribute id="UUID" type="guid" value="fe5278eb-6a1a-4301-82aa-cafc9779f07c" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Electric Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="h4bcb513bg3165g4cdfg98c4g7c8ec27bf4a9" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="e1f7b5b7-63c5-4d5b-86df-d542da03508a" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Electric_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF7DF9FF" />
-                    <attribute id="UUID" type="guid" value="1fe437e8-177d-4065-bd1c-0d69c48ba106" />
+                    <attribute id="UUID" type="guid" value="846db85f-865f-4325-b8a1-811f4f9e9c60" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Cyan
                     <attribute id="DisplayName" type="TranslatedString" handle="h3d513646g6a36g415fgbd8ag592a6d3d5dae" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="38807007-cdfd-492c-afce-cd268dcc9cc5" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Cyan" />
                     <attribute id="UIColor" type="LSString" value="#FF00FFFF" />
-                    <attribute id="UUID" type="guid" value="8415bb89-3a99-4e3b-aa1a-963c68c1c0ae" />
+                    <attribute id="UUID" type="guid" value="f415463e-7e25-4bb7-9b7c-0828feee5439" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Turquoise
                     <attribute id="DisplayName" type="TranslatedString" handle="h2d114637g4aa8g4932gb245g557c22d9f3d9" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="668e1654-00b9-4d3f-9d1b-ccf8e99f5465" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Turquoise" />
                     <attribute id="UIColor" type="LSString" value="#FF40E0D0" />
-                    <attribute id="UUID" type="guid" value="1cedcb05-1fce-4a11-97d0-452c934c62fb" />
+                    <attribute id="UUID" type="guid" value="ef8b4592-3a01-4d77-acba-1a25ad3e3a84" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Dark Turquoise
                     <attribute id="DisplayName" type="TranslatedString" handle="ha0e42a45gc850g493cg8e8ag9b7577fef4c5" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="90ef9767-6c5d-44b4-9ebb-91dbab43c5d9" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Dark_Turquoise" />
                     <attribute id="UIColor" type="LSString" value="#FF00CED1" />
-                    <attribute id="UUID" type="guid" value="5583bb4e-7f25-49d9-9639-67b0e4496afe" />
+                    <attribute id="UUID" type="guid" value="7c1b7128-9624-4932-8458-5048a668887f" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Tiffany Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="h5eede99egc612g4c8bgb817gf0d723a2f0e9" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="326585c5-3fb3-49d5-a792-aa0431314bb6" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Tiffany_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF0ABAB5" />
-                    <attribute id="UUID" type="guid" value="32bf592c-fa42-450d-adb3-3a0ef9cb9ff3" />
+                    <attribute id="UUID" type="guid" value="dfa4b4e1-79f7-4a7b-b54d-b55562b08ba2" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Aquamarine
                     <attribute id="DisplayName" type="TranslatedString" handle="hca5ddbebgfb8bg44d7gb53dg9f74b70bbd29" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="7564c77a-82dd-4215-aeb6-045eb93fec99" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Aquamarine" />
                     <attribute id="UIColor" type="LSString" value="#FF7FFFD4" />
-                    <attribute id="UUID" type="guid" value="af77145c-c4a4-462f-8e57-f8e13a312fac" />
+                    <attribute id="UUID" type="guid" value="c5d4a28f-a1ec-4eb4-a05e-6c34cb1ccb5e" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Mint
                     <attribute id="DisplayName" type="TranslatedString" handle="h207bea54g4343g4280g8e6ega8fa03261d5a" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="1c6ce97c-f13b-442d-b46b-2dcabb50a006" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Mint" />
                     <attribute id="UIColor" type="LSString" value="#FF3EB489" />
-                    <attribute id="UUID" type="guid" value="5e48f720-decd-4115-aa34-8867e7a5e11b" />
+                    <attribute id="UUID" type="guid" value="69cd190b-af63-48b8-bc8a-2cbdb774f831" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Teal
                     <attribute id="DisplayName" type="TranslatedString" handle="h36b6b5a6gdd7dg4cf3g8d11gff2b7f9e5b97" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="fee9c6ba-188e-49c1-a769-7fffef305424" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Teal" />
                     <attribute id="UIColor" type="LSString" value="#FF008080" />
-                    <attribute id="UUID" type="guid" value="8ef67066-1ea6-4eb5-8116-70fb86cc9db8" />
+                    <attribute id="UUID" type="guid" value="10236803-d496-4697-ad1b-4446da37f50f" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Blue Green
                     <attribute id="DisplayName" type="TranslatedString" handle="h3b7360e2g42ecg4db8g8d6cg2b6151773f90" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="583a9aa6-1658-4618-92b2-9ff2c6c1803d" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Blue_Green" />
                     <attribute id="UIColor" type="LSString" value="#FF0D98BA" />
-                    <attribute id="UUID" type="guid" value="cbbd0082-b53c-4f85-9f92-af386c485b89" />
+                    <attribute id="UUID" type="guid" value="16d8aa38-87b1-4f59-80ad-3a114aa2d508" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Baby Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="ha81d1b80g4e0dg4bc2gabdcg3d5c412b620e" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="06011841-597c-453b-bc10-f01fe82f874c" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Baby_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF89CFF0" />
-                    <attribute id="UUID" type="guid" value="ad480513-fb54-42d4-8445-88ce5abf4713" />
+                    <attribute id="UUID" type="guid" value="fcac25bd-9513-467c-b1f6-2ea62a2418c5" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Deep Sky Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="hb30c54a5g929fg4c83g968egb7f024b3da28" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="f18e9cd8-bebf-4280-85b3-04cf5a61ddac" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Deep_Sky_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF00BFFF" />
-                    <attribute id="UUID" type="guid" value="63b5ef0b-105c-4515-b4b0-d367421831b7" />
+                    <attribute id="UUID" type="guid" value="c9c9bd3e-dc8b-48b0-981d-6d75d8c15fc8" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Azure
                     <attribute id="DisplayName" type="TranslatedString" handle="hec467049gbc55g4742gbb5dg59df0c68d22e" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="12d3e0af-a18c-492f-bb24-7b27f0aff628" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Azure" />
                     <attribute id="UIColor" type="LSString" value="#FF007FFF" />
-                    <attribute id="UUID" type="guid" value="cb6def8d-a826-47c2-b90d-1dbbec43d717" />
+                    <attribute id="UUID" type="guid" value="5a53943f-672c-4db8-aaca-95f6fbebdcf0" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Open Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="hc3bc010age03bg45c9gb0a7g0de5a4599c87" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="9e29fccf-12d8-4c23-a214-09d87ec8a58c" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Open_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF0000FF" />
-                    <attribute id="UUID" type="guid" value="8e476e12-8963-4a65-bd77-1cfe4eb5ffe9" />
+                    <attribute id="UUID" type="guid" value="7c75ead4-199a-4f9e-876b-4f73a27b73bb" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Navy Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="h6abd699egec54g427dg9111g7ab481a88415" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="dbd7b0c8-5a1a-4b16-958a-792d13d7a742" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Navy_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF000080" />
-                    <attribute id="UUID" type="guid" value="229f4c16-5290-4612-aee9-89d79c7a594b" />
+                    <attribute id="UUID" type="guid" value="7f215def-2fbb-47d7-a9be-304207345bd6" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Midnight Blue
                     <attribute id="DisplayName" type="TranslatedString" handle="h16f4e1dbg3fb5g431fg82f0gb0bfb60379e5" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="d01e5375-48eb-41e1-a57c-cfd2bc0aad08" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Midnight_Blue" />
                     <attribute id="UIColor" type="LSString" value="#FF191970" />
-                    <attribute id="UUID" type="guid" value="80c594b7-7c9c-46d2-a209-7b5d9ea1f670" />
+                    <attribute id="UUID" type="guid" value="10e2b4e4-3c2d-4670-adf9-fdeb9467b193" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Neon Green
                     <attribute id="DisplayName" type="TranslatedString" handle="hcac382e5g30cdg46c9g88f9g00d2f65df959" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="31ae62ac-7c37-41ac-a437-f3359310de8a" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Neon_Green" />
                     <attribute id="UIColor" type="LSString" value="#FF39FF14" />
-                    <attribute id="UUID" type="guid" value="8735900e-1f49-48f9-917b-0d488641f980" />
+                    <attribute id="UUID" type="guid" value="a35a842c-a48e-43f6-bca9-11974533ee81" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Electric Lime
                     <attribute id="DisplayName" type="TranslatedString" handle="h7650bcbcg7e15g433bg8d63g035acf1e1c80" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="0e450803-b6b4-46b6-bdc5-d4e95f1b2255" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Electric_Lime" />
                     <attribute id="UIColor" type="LSString" value="#FFC9FC00" />
-                    <attribute id="UUID" type="guid" value="479c7033-d60c-458e-94b5-6342da50fa57" />
+                    <attribute id="UUID" type="guid" value="766528bd-4979-483b-8f90-c74f72b1a107" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Yellow
                     <attribute id="DisplayName" type="TranslatedString" handle="h5078dc11g6371g46aagb82bg2c9a9ba41e1a" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="075f8e95-c487-4398-a51a-ef2740bea4b7" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Yellow" />
                     <attribute id="UIColor" type="LSString" value="#FFFFFF00" />
-                    <attribute id="UUID" type="guid" value="81233439-ef14-4f1c-b867-79125c005086" />
+                    <attribute id="UUID" type="guid" value="21860c6c-0105-4510-a97f-fb7d99f872a5" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Gold
                     <attribute id="DisplayName" type="TranslatedString" handle="h33586f73g98a3g42a7g988eg1708aab4048e" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="09415695-751b-4c54-874e-a3be18c32315" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Gold" />
                     <attribute id="UIColor" type="LSString" value="#FFFFD700" />
-                    <attribute id="UUID" type="guid" value="59ce895d-5579-4d2e-9a4f-837c4df3261f" />
+                    <attribute id="UUID" type="guid" value="aed47ce3-4fa0-4bb6-ad56-ed82085848df" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Amber
                     <attribute id="DisplayName" type="TranslatedString" handle="h5b90fb0eg19beg4258gb566g2e0dde517818" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="27206838-ed6c-4bb1-99c0-fa7987fec2d3" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Amber" />
                     <attribute id="UIColor" type="LSString" value="#FFFFBF00" />
-                    <attribute id="UUID" type="guid" value="59433262-54e6-477d-ad59-206add6fea7f" />
+                    <attribute id="UUID" type="guid" value="84ba27f8-8583-4d3f-9bbf-9d69e0462f12" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Orange
                     <attribute id="DisplayName" type="TranslatedString" handle="h28eb1336gfd3cg4f6bg8657g1cf3b44b5c34" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="d923d45b-36de-4682-8fa1-c7fc07325498" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Orange" />
                     <attribute id="UIColor" type="LSString" value="#FFFFA500" />
-                    <attribute id="UUID" type="guid" value="1a22bf08-ae22-437f-8821-51dd48866138" />
+                    <attribute id="UUID" type="guid" value="91e2e7d5-0cad-460d-ae79-0f0ef760f51b" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Bright Orange
                     <attribute id="DisplayName" type="TranslatedString" handle="hc1f7128aga46fg4f9bgac0ag310e8d6ee6c9" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="66d72e05-c04a-466c-a203-7710865c7dfa" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Bright_Orange" />
                     <attribute id="UIColor" type="LSString" value="#FFFF5F00" />
-                    <attribute id="UUID" type="guid" value="f58556a5-f143-4e17-9eff-10e0c960e0eb" />
+                    <attribute id="UUID" type="guid" value="b0afde64-3c1b-4fa5-b7bd-9237cec1942f" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Watermelon
                     <attribute id="DisplayName" type="TranslatedString" handle="h58246594ge8d8g4502gb9e2g3ae4b31c083a" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="6c05b88c-f9d8-4bb0-a287-b48169fdd1bc" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Watermelon" />
                     <attribute id="UIColor" type="LSString" value="#FFD23B68" />
-                    <attribute id="UUID" type="guid" value="37542716-b1c2-44bb-a951-aad8f5eae27e" />
+                    <attribute id="UUID" type="guid" value="1fd01980-d64b-48f8-a91e-bb797938fdc9" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Raspberry
                     <attribute id="DisplayName" type="TranslatedString" handle="h3136b7e0g569cg4257g9b85ga5485fe3f6d6" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="83c73c20-1075-421b-a30a-463d5585a7a1" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Raspberry" />
                     <attribute id="UIColor" type="LSString" value="#FFE30B5D" />
-                    <attribute id="UUID" type="guid" value="27cdfdd4-e132-40ce-a461-5cff09d00bea" />
+                    <attribute id="UUID" type="guid" value="231abb10-1ba8-40a8-9114-79df980ac683" /> 
                 </node>
         <node id="CharacterCreationHairColor"> Rose Red
                     <attribute id="DisplayName" type="TranslatedString" handle="hb4725e09g9c58g4c37g860dge35231c28f89" version="1" />
                     <attribute id="MaterialPresetUUID" type="guid" value="f75cf1d1-aa3e-4e6b-96b9-b910c354ec7c" />
                     <attribute id="Name" type="FixedString" value="HAIR_Color_Rose_Red" />
                     <attribute id="UIColor" type="LSString" value="#FFC21E56" />
-                    <attribute id="UUID" type="guid" value="da537cd2-3206-4720-ada2-e0c9a7be4c92" />
+                    <attribute id="UUID" type="guid" value="b814d9df-7104-43a6-a989-8101b85ae5ee" /> 
                 </node>
       </children>
     </node>
