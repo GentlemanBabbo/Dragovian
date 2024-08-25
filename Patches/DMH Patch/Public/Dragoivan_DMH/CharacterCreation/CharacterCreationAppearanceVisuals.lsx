@@ -1150,6 +1150,391 @@
                     <attribute id="UUID" type="guid" value="b1b06522-44f7-47a3-b139-e7dc575a90f4" /> 
                     <attribute id="VisualResource" type="guid" value="45061ccc-22fc-51fb-d467-0cf5173067ef" />
                 </node>
+<!--Crystal Crown-->
+        <node id="CharacterCreationAppearanceVisual"> Blue Ice 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="05b61ed8-8fce-45c6-97dc-074e9df4b9d6" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_a16592d0-4413-4a86-a8cf-0966c27ea618" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="662467bb-6a05-41bd-8c5e-5253f145ba70" /> 
+                    <attribute id="VisualResource" type="guid" value="83762ed6-1982-4b2c-b08a-de0b60eab3bc" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue_Sapphire 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="efc35d3d-9397-4ab5-8733-fb63179be28f" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_65fb450e-3cbe-4939-87e1-e8655670a103" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="a23cb277-6cb2-4d27-b22a-fa77b5cfdfb6" /> 
+                    <attribute id="VisualResource" type="guid" value="ce6bf126-fdbb-4ece-a43c-25587a8a45e3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Violet_Amethyst 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="d4ae0621-e1d6-4b67-af5f-d438b999630a" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_215c0196-a3db-448d-b07c-452a3c60a213" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="d321d47c-ff6a-4fad-82d1-9a8c281de7bc" /> 
+                    <attribute id="VisualResource" type="guid" value="457b6ba2-b7b1-42f5-a5c1-10180b2a6f4c" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Green_Emerald 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="724c8c92-74d6-432d-a654-1273b1a583c7" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_68e1681e-d7f6-430f-9780-e2b397c0e4e9" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="02cf457d-916f-419f-b4aa-5b47c8d7578a" /> 
+                    <attribute id="VisualResource" type="guid" value="65415b2a-139d-43bd-ba1f-3b12d62fdd08" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Yellow_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="8c26c405-b737-4760-9f29-1d7dce10b255" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_6bb60996-b5a5-4269-b006-77a3c5ca6371" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="51d03653-04e6-4640-9b34-f64e663d8a8d" /> 
+                    <attribute id="VisualResource" type="guid" value="0ffbe0a8-6c46-46a8-8412-730ca682b1d3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Honey_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="d5eaa4a2-fb77-4285-9e61-75d88ec32c57" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_47ce1e78-3f3e-48d5-aaea-cc2365152db2" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="ffac9317-5532-4487-bbce-a1793535af1e" /> 
+                    <attribute id="VisualResource" type="guid" value="62f7b3ff-db6d-4f4c-8755-a57e5b8a3ea1" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Red_Bloody 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="c7756936-8000-492e-952e-26ba0d4c22b1" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_2b798a91-a270-4c61-871b-a67012d1cf83" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="04704cca-5586-487c-aadb-05e719a84fe8" /> 
+                    <attribute id="VisualResource" type="guid" value="2d871466-1fea-496a-b39a-f308fa60035b" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Black_Obsidian 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="83df88b9-df58-4696-b8ea-87d47764a5c1" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_db7c4522-8c09-4fe0-924c-ba8189723cdc" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="7be6a118-c0bd-4627-9a0b-63de28cb4ee9" /> 
+                    <attribute id="VisualResource" type="guid" value="b95cf089-c57a-4232-ba6d-497569971c38" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue Ice 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="05b61ed8-8fce-45c6-97dc-074e9df4b9d6" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_a16592d0-4413-4a86-a8cf-0966c27ea618" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="d1957600-15f0-4ca2-a499-abb4b2ef7ae3" /> 
+                    <attribute id="VisualResource" type="guid" value="83762ed6-1982-4b2c-b08a-de0b60eab3bc" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue_Sapphire 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="efc35d3d-9397-4ab5-8733-fb63179be28f" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_65fb450e-3cbe-4939-87e1-e8655670a103" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="24f034a2-837e-42d3-8b1c-7a3a2170e9d2" /> 
+                    <attribute id="VisualResource" type="guid" value="ce6bf126-fdbb-4ece-a43c-25587a8a45e3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Violet_Amethyst 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="d4ae0621-e1d6-4b67-af5f-d438b999630a" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_215c0196-a3db-448d-b07c-452a3c60a213" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="cef098a4-0d14-4a15-9806-97c2fba1f94f" /> 
+                    <attribute id="VisualResource" type="guid" value="457b6ba2-b7b1-42f5-a5c1-10180b2a6f4c" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Green_Emerald 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="724c8c92-74d6-432d-a654-1273b1a583c7" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_68e1681e-d7f6-430f-9780-e2b397c0e4e9" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="40cc3ba2-acbd-419a-9712-8a13b9f57359" /> 
+                    <attribute id="VisualResource" type="guid" value="65415b2a-139d-43bd-ba1f-3b12d62fdd08" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Yellow_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="8c26c405-b737-4760-9f29-1d7dce10b255" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_6bb60996-b5a5-4269-b006-77a3c5ca6371" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="41f01798-218e-4b73-a3cc-65984bcabb34" /> 
+                    <attribute id="VisualResource" type="guid" value="0ffbe0a8-6c46-46a8-8412-730ca682b1d3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Honey_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="d5eaa4a2-fb77-4285-9e61-75d88ec32c57" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_47ce1e78-3f3e-48d5-aaea-cc2365152db2" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="79911554-5ac5-49c2-9f8d-9d94be8e8dc0" /> 
+                    <attribute id="VisualResource" type="guid" value="62f7b3ff-db6d-4f4c-8755-a57e5b8a3ea1" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Red_Bloody 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="c7756936-8000-492e-952e-26ba0d4c22b1" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_2b798a91-a270-4c61-871b-a67012d1cf83" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="bdfe3e4e-bf45-4687-875c-efad3859157e" /> 
+                    <attribute id="VisualResource" type="guid" value="2d871466-1fea-496a-b39a-f308fa60035b" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Black_Obsidian 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="83df88b9-df58-4696-b8ea-87d47764a5c1" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" />  
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornTop_db7c4522-8c09-4fe0-924c-ba8189723cdc" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="6a711e9d-2bde-4ee9-b9cc-5b8c66a00685" /> 
+                    <attribute id="VisualResource" type="guid" value="b95cf089-c57a-4232-ba6d-497569971c38" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue Ice 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="6ffb3cfb-2e53-4062-9067-5f1fdee1e6f0" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e1e8c742-890c-4a95-ae4d-e63b88c8a890" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="9de72ff0-caf9-4d33-9046-62778d6925e0" /> 
+                    <attribute id="VisualResource" type="guid" value="6aefac80-fd19-45d0-a65a-2b33f5d287e3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue_Sapphire 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="65889232-21bb-43a4-979c-1972a2f5d025" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e3cb774e-b562-4203-9a28-e105614afcfe" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="6ce9cc33-d21a-4f9f-b6a1-f42877dce139" /> 
+                    <attribute id="VisualResource" type="guid" value="44c2fd02-fbe9-4a29-807e-b1cdd2a0421c" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Violet_Amethyst 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="12eee645-a518-498e-80ab-4b95e30beee6" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e64933c2-a79f-4cb3-8f42-bfe0511d2f9f" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="8f041355-6ad9-4b19-8382-70b7cc548baa" /> 
+                    <attribute id="VisualResource" type="guid" value="886e4dff-45a0-4740-ba25-7796f058bb0e" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Green_Emerald 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="12aac011-3f1d-46da-849e-11803e8d4718" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_6d774ca2-0048-48bc-8746-e1ba59bf8e4a" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="c91821a7-adbd-49b1-86c4-83d3a6aee09c" /> 
+                    <attribute id="VisualResource" type="guid" value="4064ef20-6169-4380-8cc7-58b591e68116" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Yellow_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="a3163674-17d7-4d9f-b5d3-b6373448e3f7" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_7f236b30-1575-4050-aa79-634bfbf6f5e7" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="8ff6fa01-7d23-41e5-a8ce-6de2117d81c7" /> 
+                    <attribute id="VisualResource" type="guid" value="9db24e7f-80e4-4266-b2e7-e07e1419b170" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Honey_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="7ba33980-9184-4b5f-914c-eded501b1ee5" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e633bfba-3851-4793-8367-aa908f105ffd" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="d4d97d2a-8146-402b-88e9-00353eebfa9b" /> 
+                    <attribute id="VisualResource" type="guid" value="e4fd7d3e-52cf-496b-9722-fcd9c18613c1" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Red_Bloody 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="a3c29f5a-bae8-40d4-9d2f-eeda2c585b0b" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_abfaf855-2053-4b65-8378-26a8ba9dc36d" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="4449390e-7e38-4ae3-80c8-ea4e54f9a0ed" /> 
+                    <attribute id="VisualResource" type="guid" value="ac7df6c1-cee6-4f9c-8c15-44bdc9e9a8be" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Black_Obsidian 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="9ef70b83-5945-418d-97e9-f62bfd3d6647" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="05d724f7-de3e-4a2e-8b65-62d244131409" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_77b7319c-f4d8-4dd1-a464-61afe16a0d2d" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="652a1237-da47-4e45-ad6d-35d96395df2c" /> 
+                    <attribute id="VisualResource" type="guid" value="78e43d25-a8c6-4e2c-bcbd-fc467c4c689e" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue Ice 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="6ffb3cfb-2e53-4062-9067-5f1fdee1e6f0" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e1e8c742-890c-4a95-ae4d-e63b88c8a890" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="32112836-e740-45ae-8632-204cdca5a711" /> 
+                    <attribute id="VisualResource" type="guid" value="6aefac80-fd19-45d0-a65a-2b33f5d287e3" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Blue_Sapphire 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="65889232-21bb-43a4-979c-1972a2f5d025" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e3cb774e-b562-4203-9a28-e105614afcfe" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="80287f46-4f8b-4c4a-a45f-99607c06a4a3" /> 
+                    <attribute id="VisualResource" type="guid" value="44c2fd02-fbe9-4a29-807e-b1cdd2a0421c" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Violet_Amethyst 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="12eee645-a518-498e-80ab-4b95e30beee6" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e64933c2-a79f-4cb3-8f42-bfe0511d2f9f" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="7f157e22-bc22-465e-a1f9-9fa5208019a4" /> 
+                    <attribute id="VisualResource" type="guid" value="886e4dff-45a0-4740-ba25-7796f058bb0e" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Green_Emerald 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="12aac011-3f1d-46da-849e-11803e8d4718" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_6d774ca2-0048-48bc-8746-e1ba59bf8e4a" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="8e69f36c-ad27-4d86-8e6a-9149bad5107e" /> 
+                    <attribute id="VisualResource" type="guid" value="4064ef20-6169-4380-8cc7-58b591e68116" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Yellow_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="a3163674-17d7-4d9f-b5d3-b6373448e3f7" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_7f236b30-1575-4050-aa79-634bfbf6f5e7" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="39dede17-0db2-45c4-b89e-d06318972c38" /> 
+                    <attribute id="VisualResource" type="guid" value="9db24e7f-80e4-4266-b2e7-e07e1419b170" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Honey_Topaz 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="7ba33980-9184-4b5f-914c-eded501b1ee5" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_e633bfba-3851-4793-8367-aa908f105ffd" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="771d3b81-b010-4448-a9d5-86b53c3f0cd8" /> 
+                    <attribute id="VisualResource" type="guid" value="e4fd7d3e-52cf-496b-9722-fcd9c18613c1" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Red_Bloody 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="a3c29f5a-bae8-40d4-9d2f-eeda2c585b0b" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_abfaf855-2053-4b65-8378-26a8ba9dc36d" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="35e91a20-7609-41df-9d95-b8ac29fbcef8" /> 
+                    <attribute id="VisualResource" type="guid" value="ac7df6c1-cee6-4f9c-8c15-44bdc9e9a8be" /> 
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Black_Obsidian 
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="9ef70b83-5945-418d-97e9-f62bfd3d6647" version="4" /> 
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a8e22f97-fca3-4dca-abf4-33de183a5664" /> 
+					<attribute id="IconIdOverride" type="FixedString" value="1_DragonbornJaw_77b7319c-f4d8-4dd1-a464-61afe16a0d2d" /> 
+                    <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592" /> 
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw" />
+                    <attribute id="UUID" type="guid" value="afab91b1-d716-491c-ae09-fd8fc697f443" /> 
+                    <attribute id="VisualResource" type="guid" value="78e43d25-a8c6-4e2c-bcbd-fc467c4c689e" /> 
+                </node>
       </children>
     </node>
   </region>
