@@ -141,7 +141,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="92d5cf23-be08-45ea-9462-14cc35a30afc" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -176,7 +176,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="92d5cf23-be08-45ea-9462-14cc35a30afc" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -211,7 +211,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="2954bf7a-9cf5-4040-8d36-b85a24feacc1" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -246,7 +246,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="2954bf7a-9cf5-4040-8d36-b85a24feacc1" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -281,7 +281,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="86b51573-d28d-423b-bb0a-af408c50342c" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -316,7 +316,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="86b51573-d28d-423b-bb0a-af408c50342c" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>

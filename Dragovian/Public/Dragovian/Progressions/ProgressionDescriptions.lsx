@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+       	 	<node id="ProgressionDescription"> Class
+                    <attribute id="Description" type="TranslatedString" handle="hdhncaj3554bfpbjadagafaeg1782c8eab882" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hr345343567bedg4adagafaeg1782c8eab882" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="c235d5b0-9bd9-41f4-9967-88d54e6429e6" />
+                    <attribute id="SelectorID" type="FixedString" value="FlightPassive" />
+                    <attribute id="UUID" type="guid" value="04187f52-7837-44f1-8173-97f588ffb332" />
+                </node>
+        	<node id="ProgressionDescription"> 
+                    <attribute id="Description" type="TranslatedString" handle="hr4dfgj3567bjdg4adagafsdh1782c2368331" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hs3gggb7897bfsahbcsdafaeg1782c8eab553" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="c235d5b0-9bd9-41f4-9967-88d54e6429e6" />
+                    <attribute id="SelectorID" type="FixedString" value="BreathAttacks" />
+                    <attribute id="UUID" type="guid" value="486a2b0e-11f3-4801-ba63-f349ec7c3010" />
+		</node>
+      </children>
+    </node>
+  </region>
+</save>

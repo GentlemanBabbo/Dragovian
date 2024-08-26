@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Dovahsil|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h21b9a5d7gc6dag4dceg8e53g9d92bcbc6e14" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h4b53c6b0gabcfg4a91ga8f5g9318ca817681" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Dovahsil" />
+			<attribute id="UUID" type="guid" value="34446758-eb9b-4ce4-b042-bb2136727efb" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Leviathan|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h7cfae09646a24edcaf881077e00c307ec231" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hbbef7ee275454c21a1b94886c5412d54c016" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Leviathan" />
+			<attribute id="UUID" type="guid" value="92d5cf23-be08-45ea-9462-14cc35a30afc" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Kovgam|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ha50a4cbd90774c2bb0b3f5413122be81g491" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h9d4e808542cd46fdb04e04f4c2f7c19854ce" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Kovgam" />
+			<attribute id="UUID" type="guid" value="2954bf7a-9cf5-4040-8d36-b85a24feacc1" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Nurnelith|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="he68ea06d38aa4b549118fbc08f826c4a8g89" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb1215fab8c574b64a3d457e220293c935cb6" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Nurnelith" />
+			<attribute id="UUID" type="guid" value="86b51573-d28d-423b-bb0a-af408c50342c" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
