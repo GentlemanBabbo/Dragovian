@@ -22,7 +22,15 @@ data "Icon" "PassiveFeature_RockGnome_ArtificersLore"
 data "Properties" "Highlighted"
 data "Boosts" "ProficiencyBonus(Skill,History);ExpertiseBonus(History)"
 
-<!--Dovahsil-->
+new entry "Passive_Capitalize"
+type "PassiveData"
+data "DisplayName" "hb2adfb25g0bedg4adagafaeg1782c8eab891;2"
+data "Description" "h12b19b1bg5da3g41b3f901bgd1d613fe8116;2"
+data "Icon" "PassiveFeature_ColossusSlayer"
+data "Properties" "OncePerTurn;Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and not HasMaxHP()"
+data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(1d4, MainMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType);IF(IsAttackType(AttackType.MeleeOffHandWeaponAttack)):DealDamage(1d4, OffhandMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedOffHandWeaponAttack)):DealDamage(1d4, OffhandRangedWeaponDamageType)
 
 new entry "Passive_Dovahsil_FireBreath"
 type "PassiveData"
