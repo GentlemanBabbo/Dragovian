@@ -42,7 +42,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b" />
+							<attribute id="VisualResource" type="FixedString" value="8a758b93-8c20-9383-aaa2-44a26d96d5c8" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -59,11 +59,6 @@
 							<attribute id="Slot" type="FixedString" value="Horns" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>	
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
@@ -186,7 +181,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b" />
+							<attribute id="VisualResource" type="FixedString" value="dfc5bc9e-b2b8-f8f7-80e5-7781847f3c66" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -203,11 +198,6 @@
 							<attribute id="Slot" type="FixedString" value="Horns" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>	
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
@@ -272,11 +262,6 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
 							<attribute id="VisualResource" type="FixedString" value="3c7a52c3-e5de-4d51-a812-58542255659c" />
 						</node>
@@ -330,7 +315,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b" />
+							<attribute id="VisualResource" type="FixedString" value="1af9a58c-4c9c-4fec-2ffe-20dff4578b64" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -347,11 +332,6 @@
 							<attribute id="Slot" type="FixedString" value="Horns" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>	
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
@@ -474,7 +454,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="eec983b0-ed0a-4ad9-a9cf-c04894f6ea2b" />
+							<attribute id="VisualResource" type="FixedString" value="c4be5d71-9d86-eed3-ba35-55fd3b091b68" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -491,11 +471,6 @@
 							<attribute id="Slot" type="FixedString" value="Horns" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>	
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Wings" />
@@ -563,11 +538,6 @@
 							<attribute id="Slot" type="FixedString" value="Wings" />
 							<attribute id="VisualResource" type="FixedString" value="17e6240d-099b-434d-b531-94bf110fd9f6" />
 						</node>					
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
-							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
