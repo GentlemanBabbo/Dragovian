@@ -58,8 +58,8 @@
 	<content contentuid="hef99f081a46e4383b129dd902650460b452f" version="1">Should &lt;LSTag Type="Spell" Tooltip="Projectile_BreathWeapon_Necrotic_Dragovian"&gt;Festering Breath&lt;/LSTag&gt; critically strike, foes will be &lt;LSTag Type="Spell" Tooltip="Projectile_NecroShove"&gt;forceably shoved&lt;/LSTag&gt; by the resulting blast.</content>
 	<content contentuid="ha07813a6ae7543bb9ea64cdbb15e94d72e47" version="1">Necro-Shove</content>
 	<content contentuid="h7963dadbff5b47e78ad3efe2d677a628942c" version="1">Shove all targets back from the resulting blast.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hb2adfb25g0bedg4adagafaeg1782c8eab891" version="1">Capitalize</content>
+	<content contentuid="h12b19b1bg5da3g41b3f901bgd1d613fe8116" version="1">The wounds of your foe spur you on to finish the job. Deal an extra 1d4 of melee or ranged weapon damage to foes with less than full health.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
