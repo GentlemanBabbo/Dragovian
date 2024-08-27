@@ -7044,11 +7044,11 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="HeadwearRemap" />
-					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Hair/Dragovian_Hair/Dragovian_M_Head_D_Hair_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Hair/Dragovian_Hair/Dragovian_M_Beard_D_Hair_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Hair/Dragovian_Hair/Dragovian_M_Head_D_Hair_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Hair/Dragovian_Hair/Dragovian_M_Beard_D_Hair_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -7059,8 +7059,8 @@
 
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="8be8da2c-5096-6b00-91b7-3d49be88e22a" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Head_D_Hair_A.Dragovian_M_Head_D_Hair_A_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="c3e04259-0441-9681-89d8-62489cb82e18" />
+							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Beard_D_Hair_A.DGB_M_NKD_Head_D_Top_Fins_FA_Mesh.0" />
 						</node>
 					</children>
 				</node>

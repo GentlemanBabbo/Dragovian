@@ -123,7 +123,7 @@
                             <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
                             <attribute id="HeadAppearanceUUID" type="guid" value="282854e5-b37e-48b6-961e-26717f322c23"/>
                             <attribute id="RaceUUID" type="guid" value="02f1ff52-a4ed-47f0-b2b9-5b0b0e8cf592"/>
-                            <attribute id="SlotName" type="FixedString" value="Hair"/>
+                            <attribute id="SlotName" type="FixedString" value="Beard"/>
                             <attribute id="UUID" type="guid" value="184df4bb-c0af-427f-b099-87da6996dec0"/>
                             <attribute id="VisualResource" type="guid" value="72c111f2-57f8-4ebd-baa6-966e00a922c7"/>
                         </node>
